@@ -1,0 +1,11 @@
+.DS_Store
+venv
+*.html
+*.pdf
+__pycache__
+
+SDSAI/2/test-*
+
+!index.html
+!SDSAI/1/*[.html, .pdf]
+!SDSAI/2/*[.html, .pdf]

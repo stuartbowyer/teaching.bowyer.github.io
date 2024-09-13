@@ -1,0 +1,94 @@
+footer {
+    padding: 10px;
+    color: #0000cd;
+    font-family: "Imperial Sans Text", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items:last baseline;
+}
+
+@media print {
+    footer {
+        position: fixed;
+        bottom: 0;
+        font-size: smaller;
+    }
+    footer div {
+        margin-right: 5px;
+    }
+}
+
+footer div {
+    margin-right: 30px;
+}
+
+footer div:last-child {
+    margin-left: auto;
+}
+
+footer 
+
+
+.reveal {
+    flex: 1 1 auto;
+}
+
+.reveal td {
+    vertical-align: top !important;
+}
+
+.reveal li {
+    margin-bottom: 0.5em;
+}
+
+.reveal td p, .reveal td img {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.reveal .jp-RenderedMarkdown pre {
+    font-size: var(--jp-content-font-size1) !important;
+}
+
+a img {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.jp-RenderedMarkdown {
+    font-family: "Imperial Sans Text", sans-serif !important;
+}
+
+ul {
+    padding-left: 1em !important;
+    margin-left: 0.5em !important;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: bold !important;
+    color: #0000cd !important;
+    font-family: "Imperial Sans Text", sans-serif !important;
+}
+
+main {
+    display: flex;
+    flex-flow: column;
+}
+
+.jp-CodeCell.celltag_side-by-side {
+   flex-direction: row !important;
+   display: flex;
+}
+
+.jp-CodeCell.celltag_side-by-side .jp-Cell-inputWrapper {
+    width: 55%
+}
+
+.jp-CodeCell.celltag_side-by-side .jp-InputArea-editor {
+    background-color: white;
+    border-color: white;
+}
+
+.jp-CodeCell.celltag_side-by-side .jp-Cell-outputWrapper {
+    width: 45%
+}
