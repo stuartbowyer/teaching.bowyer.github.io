@@ -1,0 +1,3001 @@
+id,patient_id,test,value
+0,335,crp,0.0013839 g/L
+1,852,wbc_z_score,-0.515794
+2,119,crp,0.0013958 g/L
+3,242,albumin_level,NORMAL
+4,363,albumin_level,HIGH
+5,794,crp,0.0007976 g/L
+6,653,albumin_level,normal
+7,529,crp,1.132 mg/L
+8,494,albumin_level,normal
+9,471,albumin_level,verylow
+10,377,albumin_level,low
+11,95,wbc_z_score,0.393847
+12,297,crp,1.7266 mg/L
+13,759,crp,0.0007293 g/L
+14,878,wbc_z_score,-1.405644
+15,117,albumin_level,low
+16,594,albumin_level,normal
+17,627,albumin_level,low
+18,595,albumin_level,HIGH
+19,456,wbc_z_score,5.810832
+20,958,crp,0.3106 mg/L
+21,265,albumin_level,NORMAL
+22,190,albumin_level,normal
+23,693,crp,0.0012419 g/L
+24,168,crp,0.4197 mg/L
+25,255,albumin_level,normal
+26,262,wbc_z_score,1.457138
+27,901,crp,0.001657 g/L
+28,533,albumin_level,normal
+29,143,albumin_level,low
+30,721,crp,0.0005807 g/L
+31,614,wbc_z_score,3.722312
+32,660,crp,0.0016255 g/L
+33,414,albumin_level,NORMAL
+34,391,wbc_z_score,3.236022
+35,380,albumin_level,low
+36,484,wbc_z_score,6.118535
+37,287,albumin_level,normal
+38,702,albumin_level,normal
+39,202,wbc_z_score,0.940213
+40,400,crp,0.0015445 g/L
+41,86,albumin_level,NORMAL
+42,32,wbc_z_score,2.771356
+43,555,wbc_z_score,4.553382
+44,907,wbc_z_score,0.792502
+45,943,albumin_level,low
+46,291,wbc_z_score,1.467588
+47,496,wbc_z_score,2.102027
+48,332,albumin_level,normal
+49,493,wbc_z_score,-5.563252
+50,170,albumin_level,HIGH
+51,332,wbc_z_score,2.487549
+52,672,albumin_level,normal
+53,233,wbc_z_score,3.154337
+54,599,crp,0.2186 mg/L
+55,71,wbc_z_score,1.749492
+56,293,crp,1.9269 mg/L
+57,900,crp,0.0011396 g/L
+58,312,albumin_level,normal
+59,100,wbc_z_score,0.889537
+60,920,albumin_level,normal
+61,983,crp,0.0016372 g/L
+62,730,albumin_level,NORMAL
+63,408,albumin_level,normal
+64,174,wbc_z_score,-4.442359
+65,487,albumin_level,NORMAL
+66,639,crp,2.0137 mg/L
+67,199,albumin_level,NORMAL
+68,657,crp,0.6824 mg/L
+69,273,albumin_level,normal
+70,740,albumin_level,NORMAL
+71,965,albumin_level,HIGH
+72,570,crp,0.0015738 g/L
+73,589,albumin_level,HIGH
+74,513,albumin_level,normal
+75,568,albumin_level,normal
+76,295,wbc_z_score,2.902581
+77,312,wbc_z_score,-0.424819
+78,138,albumin_level,LOW
+79,468,crp,1.094 mg/L
+80,555,crp,0.6098 mg/L
+81,461,wbc_z_score,4.516398
+82,142,albumin_level,NORMAL
+83,569,albumin_level,NORMAL
+84,89,wbc_z_score,2.903306
+85,57,crp,0.0004742 g/L
+86,604,wbc_z_score,5.106317
+87,521,crp,1.3435 mg/L
+88,659,albumin_level,NORMAL
+89,296,albumin_level,NORMAL
+90,530,wbc_z_score,-3.949439
+91,652,crp,0.0007301 g/L
+92,211,albumin_level,normal
+93,833,albumin_level,LOW
+94,219,crp,1.0782 mg/L
+95,488,albumin_level,normal
+96,564,albumin_level,NORMAL
+97,390,wbc_z_score,3.956671
+98,14,albumin_level,low
+99,685,wbc_z_score,3.925432
+100,647,crp,0.0004379 g/L
+101,977,crp,1.2682 mg/L
+102,810,wbc_z_score,1.408366
+103,847,crp,0.2665 mg/L
+104,367,wbc_z_score,2.934606
+105,47,albumin_level,low
+106,844,crp,0.0015905 g/L
+107,665,crp,0.284 mg/L
+108,270,wbc_z_score,1.837765
+109,92,wbc_z_score,7.156945
+110,583,crp,0.7071 mg/L
+111,378,crp,0.0005074 g/L
+112,365,albumin_level,HIGH
+113,492,crp,0.0002423 g/L
+114,531,crp,0.9723 mg/L
+115,457,albumin_level,normal
+116,353,crp,0.0014687 g/L
+117,747,wbc_z_score,4.501794
+118,248,albumin_level,LOW
+119,166,wbc_z_score,0.336324
+120,404,crp,0.4876 mg/L
+121,212,wbc_z_score,4.444216
+122,325,wbc_z_score,0.573881
+123,193,albumin_level,NORMAL
+124,638,albumin_level,high
+125,107,crp,1.8301 mg/L
+126,769,crp,0.0005717 g/L
+127,374,wbc_z_score,3.00937
+128,405,wbc_z_score,3.183094
+129,522,crp,0.0001446 g/L
+130,409,albumin_level,normal
+131,558,wbc_z_score,2.12004
+132,195,wbc_z_score,1.353189
+133,193,crp,1.4607 mg/L
+134,500,crp,0.2337 mg/L
+135,11,crp,0.0017574 g/L
+136,785,wbc_z_score,0.269925
+137,364,albumin_level,normal
+138,198,wbc_z_score,5.473733
+139,982,albumin_level,HIGH
+140,538,wbc_z_score,0.605374
+141,430,albumin_level,NORMAL
+142,5,albumin_level,verylow
+143,227,crp,1.6815 mg/L
+144,262,albumin_level,LOW
+145,604,crp,0.0004091 g/L
+146,114,crp,1.4766 mg/L
+147,251,crp,0.0012246 g/L
+148,257,crp,0.0018103 g/L
+149,649,albumin_level,normal
+150,975,crp,1.574 mg/L
+151,859,albumin_level,veryhigh
+152,179,crp,0.2813 mg/L
+153,217,albumin_level,normal
+154,898,wbc_z_score,-2.618598
+155,479,wbc_z_score,3.580593
+156,489,crp,0.0017098 g/L
+157,510,albumin_level,low
+158,195,crp,0.0855 mg/L
+159,633,crp,0.0005645 g/L
+160,719,crp,0.0013301 g/L
+161,786,wbc_z_score,0.955087
+162,598,wbc_z_score,3.286682
+163,974,wbc_z_score,4.09643
+164,139,wbc_z_score,3.266789
+165,538,crp,0.0005616 g/L
+166,290,wbc_z_score,2.090488
+167,116,wbc_z_score,2.558687
+168,59,albumin_level,NORMAL
+169,231,albumin_level,NORMAL
+170,920,crp,0.0010955 g/L
+171,723,albumin_level,low
+172,187,albumin_level,high
+173,499,wbc_z_score,-2.429105
+174,232,wbc_z_score,4.89606
+175,257,wbc_z_score,3.675697
+176,919,albumin_level,NORMAL
+177,198,crp,0.0007355 g/L
+178,132,wbc_z_score,1.633982
+179,770,wbc_z_score,2.112704
+180,833,crp,0.0011415 g/L
+181,273,crp,0.0013888 g/L
+182,37,albumin_level,normal
+183,344,wbc_z_score,1.209116
+184,317,wbc_z_score,6.61684
+185,329,wbc_z_score,0.3077
+186,316,albumin_level,normal
+187,412,crp,0.0011769 g/L
+188,467,wbc_z_score,2.68369
+189,961,albumin_level,high
+190,191,wbc_z_score,0.741226
+191,76,albumin_level,NORMAL
+192,639,albumin_level,normal
+193,633,wbc_z_score,1.374662
+194,985,albumin_level,normal
+195,964,wbc_z_score,0.519506
+196,349,wbc_z_score,1.683414
+197,551,albumin_level,high
+198,8,wbc_z_score,-1.243285
+199,811,crp,0.0005056 g/L
+200,328,albumin_level,LOW
+201,797,albumin_level,low
+202,236,wbc_z_score,2.815045
+203,609,albumin_level,NORMAL
+204,487,crp,0.4276 mg/L
+205,631,albumin_level,normal
+206,758,albumin_level,LOW
+207,747,albumin_level,NORMAL
+208,548,crp,0.0866 mg/L
+209,574,crp,1.1163 mg/L
+210,62,albumin_level,HIGH
+211,435,wbc_z_score,-0.530227
+212,280,wbc_z_score,-0.610555
+213,818,crp,0.0006944 g/L
+214,624,crp,1.5717 mg/L
+215,700,wbc_z_score,2.01729
+216,563,crp,0.0006522 g/L
+217,970,albumin_level,NORMAL
+218,566,crp,0.0015733 g/L
+219,97,wbc_z_score,0.24473
+220,935,crp,0.4025 mg/L
+221,33,albumin_level,low
+222,42,crp,0.0006781 g/L
+223,343,albumin_level,high
+224,274,wbc_z_score,2.296616
+225,780,crp,0.0005981 g/L
+226,427,wbc_z_score,0.811504
+227,712,albumin_level,NORMAL
+228,239,crp,0.0003875 g/L
+229,569,wbc_z_score,2.742171
+230,335,albumin_level,normal
+231,526,albumin_level,NORMAL
+232,157,wbc_z_score,-0.344143
+233,168,wbc_z_score,-1.970778
+234,983,wbc_z_score,-0.708915
+235,187,wbc_z_score,-2.814542
+236,60,albumin_level,LOW
+237,239,wbc_z_score,2.357897
+238,146,wbc_z_score,-1.78657
+239,103,wbc_z_score,0.784772
+240,881,wbc_z_score,2.432271
+241,191,crp,0.0012583 g/L
+242,579,albumin_level,high
+243,478,crp,0.0015298 g/L
+244,84,wbc_z_score,0.400717
+245,632,wbc_z_score,1.477628
+246,951,wbc_z_score,1.357626
+247,893,albumin_level,LOW
+248,272,albumin_level,NORMAL
+249,71,crp,0.0003593 g/L
+250,9,albumin_level,NORMAL
+251,936,albumin_level,HIGH
+252,993,crp,0.7584 mg/L
+253,707,crp,8.4e-06 g/L
+254,429,albumin_level,high
+255,13,wbc_z_score,0.223435
+256,462,albumin_level,HIGH
+257,760,albumin_level,high
+258,650,wbc_z_score,2.814308
+259,737,wbc_z_score,2.064768
+260,355,crp,1.1467 mg/L
+261,558,albumin_level,NORMAL
+262,990,albumin_level,NORMAL
+263,50,wbc_z_score,4.221019
+264,825,wbc_z_score,1.726109
+265,658,crp,1.8345 mg/L
+266,888,crp,0.0012527 g/L
+267,475,wbc_z_score,2.867139
+268,36,wbc_z_score,-0.040209
+269,674,albumin_level,low
+270,55,wbc_z_score,-0.511685
+271,204,albumin_level,NORMAL
+272,341,crp,0.2202 mg/L
+273,112,crp,1.3457 mg/L
+274,590,crp,1.408 mg/L
+275,562,wbc_z_score,-0.262319
+276,879,albumin_level,NORMAL
+277,938,crp,0.482 mg/L
+278,341,wbc_z_score,4.143838
+279,993,albumin_level,LOW
+280,124,albumin_level,HIGH
+281,986,crp,1.573 mg/L
+282,819,crp,0.1583 mg/L
+283,764,albumin_level,low
+284,297,albumin_level,normal
+285,871,albumin_level,NORMAL
+286,396,crp,0.0006564 g/L
+287,956,wbc_z_score,2.824768
+288,757,wbc_z_score,0.018126
+289,73,wbc_z_score,4.512831
+290,379,albumin_level,normal
+291,928,crp,0.3956 mg/L
+292,62,wbc_z_score,3.507305
+293,666,crp,1.2319 mg/L
+294,849,crp,0.066 mg/L
+295,50,albumin_level,HIGH
+296,102,albumin_level,normal
+297,580,crp,0.4776 mg/L
+298,383,wbc_z_score,-1.651387
+299,614,crp,0.0003926 g/L
+300,808,albumin_level,NORMAL
+301,266,crp,0.0008038 g/L
+302,446,albumin_level,normal
+303,692,crp,0.0001855 g/L
+304,488,crp,0.2365 mg/L
+305,966,albumin_level,high
+306,160,crp,0.0003668 g/L
+307,383,crp,0.0020549 g/L
+308,231,crp,0.0015672 g/L
+309,245,albumin_level,high
+310,458,albumin_level,high
+311,646,wbc_z_score,3.520009
+312,333,crp,0.0008065 g/L
+313,905,crp,0.6507 mg/L
+314,472,albumin_level,high
+315,321,wbc_z_score,3.477908
+316,914,albumin_level,LOW
+317,104,albumin_level,HIGH
+318,686,wbc_z_score,0.615956
+319,244,wbc_z_score,3.054469
+320,273,wbc_z_score,5.335216
+321,455,crp,1.5719 mg/L
+322,241,albumin_level,high
+323,358,albumin_level,HIGH
+324,529,albumin_level,normal
+325,681,albumin_level,HIGH
+326,126,crp,0.9125 mg/L
+327,752,wbc_z_score,-0.655847
+328,78,crp,1.5544 mg/L
+329,922,albumin_level,NORMAL
+330,248,crp,0.3889 mg/L
+331,287,wbc_z_score,-3.790724
+332,207,wbc_z_score,4.981324
+333,694,crp,1.5985 mg/L
+334,515,wbc_z_score,-2.653158
+335,915,albumin_level,NORMAL
+336,455,albumin_level,HIGH
+337,348,wbc_z_score,0.685039
+338,978,crp,0.0017646 g/L
+339,511,albumin_level,low
+340,498,albumin_level,NORMAL
+341,498,crp,0.4362 mg/L
+342,454,wbc_z_score,-0.230501
+343,437,wbc_z_score,1.773847
+344,206,wbc_z_score,0.566477
+345,945,albumin_level,HIGH
+346,129,crp,0.000302 g/L
+347,689,albumin_level,NORMAL
+348,175,albumin_level,NORMAL
+349,15,wbc_z_score,1.515188
+350,739,albumin_level,verylow
+351,980,wbc_z_score,3.290309
+352,49,albumin_level,NORMAL
+353,56,wbc_z_score,4.400065
+354,697,albumin_level,HIGH
+355,726,wbc_z_score,0.182325
+356,313,wbc_z_score,3.20416
+357,133,wbc_z_score,2.462016
+358,921,crp,1.3795 mg/L
+359,458,crp,2.1402 mg/L
+360,921,albumin_level,low
+361,929,crp,1.2653 mg/L
+362,574,albumin_level,low
+363,944,albumin_level,NORMAL
+364,818,albumin_level,NORMAL
+365,209,crp,1.6055 mg/L
+366,725,wbc_z_score,-0.435716
+367,556,crp,0.8893 mg/L
+368,885,wbc_z_score,-0.798115
+369,301,albumin_level,normal
+370,10,crp,0.0012716 g/L
+371,199,crp,1.3337 mg/L
+372,933,albumin_level,normal
+373,158,crp,0.0019555 g/L
+374,711,albumin_level,NORMAL
+375,61,crp,0.0016372 g/L
+376,48,wbc_z_score,6.34994
+377,433,albumin_level,NORMAL
+378,918,albumin_level,NORMAL
+379,537,wbc_z_score,2.790924
+380,120,wbc_z_score,3.5639
+381,302,albumin_level,normal
+382,652,albumin_level,normal
+383,202,crp,0.6336 mg/L
+384,214,crp,1.4464 mg/L
+385,722,albumin_level,high
+386,860,wbc_z_score,4.869132
+387,99,wbc_z_score,3.43797
+388,222,crp,1.0018 mg/L
+389,798,wbc_z_score,-0.16182
+390,243,crp,0.4832 mg/L
+391,69,albumin_level,low
+392,869,crp,1.3978 mg/L
+393,294,wbc_z_score,0.145717
+394,654,albumin_level,NORMAL
+395,421,albumin_level,normal
+396,541,wbc_z_score,-0.580185
+397,947,wbc_z_score,0.327305
+398,592,wbc_z_score,4.158641
+399,43,crp,1.3292 mg/L
+400,874,crp,0.0003655 g/L
+401,155,crp,1.564 mg/L
+402,848,wbc_z_score,-0.13861
+403,347,albumin_level,high
+404,887,wbc_z_score,-1.074454
+405,362,wbc_z_score,3.539003
+406,608,albumin_level,normal
+407,814,wbc_z_score,2.110691
+408,818,wbc_z_score,3.730405
+409,269,albumin_level,HIGH
+410,572,crp,0.0002586 g/L
+411,895,wbc_z_score,0.82765
+412,519,crp,0.2445 mg/L
+413,799,wbc_z_score,2.681021
+414,177,crp,0.0005585 g/L
+415,816,albumin_level,NORMAL
+416,327,albumin_level,normal
+417,6,wbc_z_score,3.58455
+418,862,wbc_z_score,6.224186
+419,92,crp,0.0012353 g/L
+420,854,crp,0.0001704 g/L
+421,838,albumin_level,high
+422,529,wbc_z_score,-1.516284
+423,823,wbc_z_score,-0.946871
+424,766,crp,1.0408 mg/L
+425,510,wbc_z_score,3.590687
+426,727,crp,1.7112 mg/L
+427,445,albumin_level,normal
+428,937,albumin_level,LOW
+429,770,albumin_level,high
+430,718,crp,0.0012613 g/L
+431,190,crp,0.3908 mg/L
+432,226,crp,0.000109 g/L
+433,952,wbc_z_score,0.297608
+434,841,albumin_level,low
+435,44,albumin_level,HIGH
+436,424,albumin_level,normal
+437,586,albumin_level,HIGH
+438,589,crp,0.0021042 g/L
+439,439,crp,0.0002997 g/L
+440,930,albumin_level,low
+441,93,albumin_level,normal
+442,173,albumin_level,normal
+443,453,crp,1.6411 mg/L
+444,495,albumin_level,NORMAL
+445,579,crp,0.0003512 g/L
+446,877,albumin_level,high
+447,581,crp,1.5037 mg/L
+448,587,wbc_z_score,1.977481
+449,181,crp,0.0016064 g/L
+450,960,crp,0.4002 mg/L
+451,465,albumin_level,normal
+452,948,crp,1.5402 mg/L
+453,62,crp,1.2106 mg/L
+454,281,crp,0.000493 g/L
+455,336,wbc_z_score,-1.27441
+456,453,wbc_z_score,3.783968
+457,195,albumin_level,NORMAL
+458,599,wbc_z_score,-0.552341
+459,835,crp,0.0005758 g/L
+460,460,albumin_level,NORMAL
+461,522,albumin_level,NORMAL
+462,425,wbc_z_score,-2.300957
+463,12,wbc_z_score,7.592361
+464,234,wbc_z_score,1.174728
+465,96,wbc_z_score,3.879464
+466,896,albumin_level,high
+467,907,crp,0.0005482 g/L
+468,814,albumin_level,NORMAL
+469,258,albumin_level,HIGH
+470,139,albumin_level,normal
+471,924,wbc_z_score,3.286858
+472,609,crp,0.0005867 g/L
+473,59,wbc_z_score,-1.746486
+474,654,wbc_z_score,1.937161
+475,116,crp,1.4897 mg/L
+476,172,albumin_level,normal
+477,298,albumin_level,normal
+478,463,crp,1.2751 mg/L
+479,257,albumin_level,low
+480,106,crp,0.395 mg/L
+481,962,crp,0.0012095 g/L
+482,427,crp,0.8036 mg/L
+483,72,crp,0.0001604 g/L
+484,511,wbc_z_score,4.972026
+485,20,crp,0.0016066 g/L
+486,793,wbc_z_score,1.054595
+487,387,albumin_level,NORMAL
+488,70,albumin_level,low
+489,541,albumin_level,LOW
+490,974,crp,0.0012912 g/L
+491,899,crp,1.2734 mg/L
+492,971,wbc_z_score,0.40687
+493,975,wbc_z_score,6.897146
+494,178,wbc_z_score,-1.294966
+495,282,albumin_level,NORMAL
+496,707,wbc_z_score,-0.593103
+497,371,wbc_z_score,4.820414
+498,800,crp,1.4467 mg/L
+499,452,wbc_z_score,-3.825812
+500,937,wbc_z_score,0.779734
+501,648,wbc_z_score,-2.038872
+502,405,crp,0.0012726 g/L
+503,602,wbc_z_score,5.071832
+504,448,wbc_z_score,4.051444
+505,598,crp,0.0018194 g/L
+506,713,crp,0.0016045 g/L
+507,188,wbc_z_score,-0.410684
+508,837,crp,0.0020324 g/L
+509,751,albumin_level,high
+510,180,wbc_z_score,-0.053995
+511,801,wbc_z_score,8.0209
+512,669,crp,0.0024513 g/L
+513,337,albumin_level,high
+514,917,albumin_level,LOW
+515,748,albumin_level,NORMAL
+516,628,albumin_level,normal
+517,807,crp,0.000448 g/L
+518,896,wbc_z_score,-4.199304
+519,183,albumin_level,NORMAL
+520,120,crp,1.3256 mg/L
+521,10,wbc_z_score,-1.068309
+522,369,crp,0.0004955 g/L
+523,425,crp,0.0003403 g/L
+524,394,wbc_z_score,1.308767
+525,714,crp,1.699 mg/L
+526,908,crp,0.0002142 g/L
+527,283,albumin_level,normal
+528,321,crp,0.0007809 g/L
+529,895,albumin_level,HIGH
+530,380,wbc_z_score,3.053233
+531,228,crp,1.7687 mg/L
+532,890,wbc_z_score,1.70951
+533,885,albumin_level,normal
+534,749,crp,0.4615 mg/L
+535,725,crp,1.4814 mg/L
+536,567,wbc_z_score,3.937506
+537,831,wbc_z_score,1.797871
+538,890,albumin_level,normal
+539,128,crp,9.06e-05 g/L
+540,479,albumin_level,normal
+541,528,wbc_z_score,5.095136
+542,747,crp,1.7474 mg/L
+543,611,crp,0.0014405 g/L
+544,746,crp,0.0005141 g/L
+545,758,crp,0.0011487 g/L
+546,25,wbc_z_score,2.044218
+547,994,albumin_level,normal
+548,620,wbc_z_score,0.108998
+549,316,crp,0.0011368 g/L
+550,37,crp,0.8716 mg/L
+551,782,wbc_z_score,2.993684
+552,773,albumin_level,NORMAL
+553,246,albumin_level,high
+554,906,wbc_z_score,2.505556
+555,957,crp,1.6868 mg/L
+556,844,albumin_level,LOW
+557,303,crp,0.0014893 g/L
+558,122,crp,2.97e-05 g/L
+559,367,crp,1.6345 mg/L
+560,932,crp,1.3435 mg/L
+561,176,albumin_level,normal
+562,999,crp,0.0016167 g/L
+563,200,wbc_z_score,1.203388
+564,785,crp,0.5579 mg/L
+565,56,crp,1.1522 mg/L
+566,812,wbc_z_score,3.029137
+567,459,crp,1.6219 mg/L
+568,149,albumin_level,NORMAL
+569,596,crp,1.4566 mg/L
+570,791,crp,0.6263 mg/L
+571,683,wbc_z_score,5.963993
+572,500,albumin_level,LOW
+573,502,wbc_z_score,1.864495
+574,746,albumin_level,LOW
+575,170,wbc_z_score,3.691539
+576,954,crp,0.0009039 g/L
+577,806,albumin_level,normal
+578,789,crp,0.0020466 g/L
+579,882,albumin_level,NORMAL
+580,791,albumin_level,high
+581,916,wbc_z_score,2.053808
+582,660,wbc_z_score,4.513136
+583,466,wbc_z_score,4.613189
+584,151,crp,1.4215 mg/L
+585,856,crp,1.5351 mg/L
+586,674,crp,0.3018 mg/L
+587,350,albumin_level,normal
+588,491,albumin_level,low
+589,717,wbc_z_score,1.381152
+590,897,albumin_level,NORMAL
+591,401,albumin_level,normal
+592,839,albumin_level,NORMAL
+593,929,wbc_z_score,3.617922
+594,895,crp,1.4745 mg/L
+595,524,albumin_level,normal
+596,63,wbc_z_score,1.922552
+597,359,albumin_level,HIGH
+598,445,wbc_z_score,3.49594
+599,884,albumin_level,normal
+600,872,wbc_z_score,3.822263
+601,539,albumin_level,LOW
+602,309,crp,0.0013402 g/L
+603,107,wbc_z_score,3.170889
+604,669,albumin_level,LOW
+605,370,wbc_z_score,1.444342
+606,968,crp,1.1871 mg/L
+607,712,wbc_z_score,3.860695
+608,601,wbc_z_score,-2.661219
+609,386,crp,0.0015064 g/L
+610,177,wbc_z_score,1.081783
+611,45,crp,0.0003599 g/L
+612,561,wbc_z_score,-4.293013
+613,182,crp,1.6851 mg/L
+614,275,wbc_z_score,-0.689106
+615,543,albumin_level,low
+616,64,crp,1.4669 mg/L
+617,132,crp,0.0018144 g/L
+618,425,albumin_level,normal
+619,263,crp,0.3198 mg/L
+620,916,crp,0.3643 mg/L
+621,798,albumin_level,normal
+622,868,wbc_z_score,3.157319
+623,851,crp,0.0017882 g/L
+624,819,wbc_z_score,-1.416013
+625,982,crp,0.0006115 g/L
+626,201,albumin_level,normal
+627,450,crp,1.7602 mg/L
+628,837,albumin_level,NORMAL
+629,141,albumin_level,low
+630,276,crp,0.3685 mg/L
+631,475,albumin_level,normal
+632,635,wbc_z_score,2.495247
+633,141,crp,0.001781 g/L
+634,437,albumin_level,low
+635,490,albumin_level,normal
+636,656,crp,1.5906 mg/L
+637,54,albumin_level,NORMAL
+638,125,crp,0.0007686 g/L
+639,820,wbc_z_score,2.081218
+640,55,albumin_level,NORMAL
+641,540,albumin_level,normal
+642,366,albumin_level,NORMAL
+643,415,albumin_level,low
+644,293,wbc_z_score,6.463747
+645,336,albumin_level,normal
+646,465,wbc_z_score,3.035904
+647,778,albumin_level,LOW
+648,200,crp,0.3588 mg/L
+649,399,wbc_z_score,4.625231
+650,967,crp,0.001662 g/L
+651,966,crp,1.2929 mg/L
+652,626,crp,0.0020022 g/L
+653,229,crp,0.0004604 g/L
+654,279,crp,0.0013656 g/L
+655,893,crp,0.0001047 g/L
+656,98,wbc_z_score,1.371503
+657,827,crp,0.0015574 g/L
+658,858,albumin_level,normal
+659,285,albumin_level,NORMAL
+660,678,wbc_z_score,1.971823
+661,528,albumin_level,normal
+662,58,crp,1.5583 mg/L
+663,77,wbc_z_score,-5.130865
+664,665,albumin_level,normal
+665,619,wbc_z_score,4.03397
+666,552,crp,0.0010045 g/L
+667,271,wbc_z_score,0.107969
+668,22,wbc_z_score,1.645085
+669,851,wbc_z_score,-0.988147
+670,950,albumin_level,NORMAL
+671,396,albumin_level,normal
+672,170,crp,0.8894 mg/L
+673,25,albumin_level,normal
+674,939,albumin_level,LOW
+675,873,wbc_z_score,-0.676719
+676,764,crp,0.0004421 g/L
+677,119,albumin_level,NORMAL
+678,842,crp,0.0014564 g/L
+679,525,crp,0.0002548 g/L
+680,733,crp,0.8973 mg/L
+681,240,albumin_level,HIGH
+682,431,albumin_level,verylow
+683,498,wbc_z_score,0.869191
+684,900,wbc_z_score,-1.674416
+685,585,crp,0.0013026 g/L
+686,192,crp,0.1645 mg/L
+687,400,wbc_z_score,3.529822
+688,582,crp,0.0009708 g/L
+689,613,wbc_z_score,0.59492
+690,835,albumin_level,normal
+691,483,albumin_level,NORMAL
+692,550,albumin_level,normal
+693,542,crp,0.0004221 g/L
+694,497,albumin_level,verylow
+695,779,wbc_z_score,2.043045
+696,730,wbc_z_score,0.323045
+697,337,crp,0.0005552 g/L
+698,758,wbc_z_score,3.90173
+699,281,albumin_level,normal
+700,113,crp,0.1946 mg/L
+701,987,crp,0.0016171 g/L
+702,254,crp,1.908 mg/L
+703,661,crp,0.0016307 g/L
+704,212,crp,0.001435 g/L
+705,407,albumin_level,low
+706,832,wbc_z_score,3.699422
+707,769,wbc_z_score,1.498214
+708,809,albumin_level,normal
+709,133,albumin_level,NORMAL
+710,255,wbc_z_score,4.448488
+711,431,wbc_z_score,0.853616
+712,338,crp,0.0003844 g/L
+713,944,wbc_z_score,4.109208
+714,173,wbc_z_score,3.320108
+715,618,albumin_level,HIGH
+716,836,wbc_z_score,3.307414
+717,655,albumin_level,low
+718,38,crp,0.0005371 g/L
+719,484,albumin_level,normal
+720,742,albumin_level,normal
+721,827,wbc_z_score,3.146181
+722,58,wbc_z_score,4.881738
+723,495,wbc_z_score,6.535776
+724,774,crp,0.035 mg/L
+725,19,wbc_z_score,4.749879
+726,34,crp,2.0159 mg/L
+727,705,wbc_z_score,5.083865
+728,824,albumin_level,normal
+729,777,albumin_level,LOW
+730,684,crp,0.6246 mg/L
+731,765,wbc_z_score,-0.437635
+732,717,crp,0.0019737 g/L
+733,245,crp,0.0012938 g/L
+734,691,albumin_level,NORMAL
+735,241,wbc_z_score,1.188279
+736,382,crp,1.5058 mg/L
+737,795,albumin_level,NORMAL
+738,839,crp,0.4513 mg/L
+739,241,crp,1.555 mg/L
+740,108,wbc_z_score,0.650987
+741,756,crp,0.1182 mg/L
+742,848,albumin_level,NORMAL
+743,11,albumin_level,normal
+744,554,albumin_level,normal
+745,705,crp,1.2363 mg/L
+746,328,wbc_z_score,5.900527
+747,824,crp,0.0006849 g/L
+748,665,wbc_z_score,2.71464
+749,575,crp,0.3903 mg/L
+750,216,wbc_z_score,-2.490219
+751,184,crp,0.6581 mg/L
+752,553,wbc_z_score,6.028207
+753,889,crp,0.0006268 g/L
+754,179,albumin_level,NORMAL
+755,569,crp,0.0016587 g/L
+756,843,wbc_z_score,-3.857254
+757,235,crp,0.7029 mg/L
+758,131,albumin_level,HIGH
+759,886,wbc_z_score,2.579881
+760,940,albumin_level,low
+761,83,wbc_z_score,3.831219
+762,875,wbc_z_score,2.774724
+763,349,crp,0.0022492 g/L
+764,496,crp,1.2106 mg/L
+765,573,crp,0.001204 g/L
+766,277,wbc_z_score,2.982322
+767,812,albumin_level,normal
+768,876,albumin_level,normal
+769,776,wbc_z_score,2.276672
+770,936,wbc_z_score,4.494172
+771,390,albumin_level,HIGH
+772,655,wbc_z_score,3.995121
+773,744,albumin_level,high
+774,608,wbc_z_score,-1.10104
+775,474,albumin_level,HIGH
+776,432,crp,0.0010046 g/L
+777,858,wbc_z_score,-1.613607
+778,79,wbc_z_score,-1.100852
+779,135,albumin_level,HIGH
+780,998,crp,1.9421 mg/L
+781,376,albumin_level,NORMAL
+782,673,wbc_z_score,-2.026466
+783,346,albumin_level,normal
+784,239,albumin_level,normal
+785,43,albumin_level,normal
+786,46,crp,0.0010749 g/L
+787,444,albumin_level,LOW
+788,783,albumin_level,HIGH
+789,735,wbc_z_score,7.541327
+790,220,albumin_level,LOW
+791,478,wbc_z_score,2.904488
+792,250,crp,0.621 mg/L
+793,86,wbc_z_score,3.246244
+794,428,crp,1.3026 mg/L
+795,2,wbc_z_score,1.472583
+796,391,crp,1.4824 mg/L
+797,309,albumin_level,normal
+798,179,wbc_z_score,0.048183
+799,462,wbc_z_score,-0.825215
+800,986,wbc_z_score,1.855735
+801,291,albumin_level,normal
+802,641,wbc_z_score,1.871283
+803,96,crp,1.8088 mg/L
+804,403,wbc_z_score,2.336854
+805,196,crp,0.302 mg/L
+806,753,albumin_level,normal
+807,954,albumin_level,normal
+808,454,albumin_level,normal
+809,171,crp,0.0007907 g/L
+810,251,albumin_level,normal
+811,995,crp,0.812 mg/L
+812,54,wbc_z_score,1.449351
+813,882,crp,1.1731 mg/L
+814,182,albumin_level,normal
+815,344,albumin_level,high
+816,944,crp,0.0016039 g/L
+817,42,wbc_z_score,0.576136
+818,483,wbc_z_score,2.256609
+819,30,wbc_z_score,-0.150186
+820,122,wbc_z_score,0.865353
+821,593,wbc_z_score,3.648497
+822,221,wbc_z_score,-0.355769
+823,855,crp,1.1962 mg/L
+824,789,wbc_z_score,2.055544
+825,322,albumin_level,high
+826,706,wbc_z_score,7.59797
+827,100,albumin_level,normal
+828,225,crp,0.0009773 g/L
+829,34,albumin_level,normal
+830,419,albumin_level,NORMAL
+831,507,wbc_z_score,-6.604379
+832,184,albumin_level,HIGH
+833,672,crp,0.0018795 g/L
+834,623,albumin_level,high
+835,77,albumin_level,NORMAL
+836,107,albumin_level,low
+837,474,wbc_z_score,-0.261326
+838,229,albumin_level,normal
+839,590,albumin_level,low
+840,520,albumin_level,HIGH
+841,2,crp,0.0010584 g/L
+842,59,crp,1.7627 mg/L
+843,796,wbc_z_score,2.67083
+844,40,crp,1.5282 mg/L
+845,18,crp,1.1781 mg/L
+846,17,wbc_z_score,6.355264
+847,154,albumin_level,NORMAL
+848,409,wbc_z_score,-4.205368
+849,32,crp,1.5426 mg/L
+850,723,crp,0.8802 mg/L
+851,962,wbc_z_score,2.598133
+852,393,albumin_level,normal
+853,996,crp,0.5494 mg/L
+854,270,albumin_level,normal
+855,237,albumin_level,NORMAL
+856,537,albumin_level,NORMAL
+857,416,crp,0.0007357 g/L
+858,127,crp,0.0011003 g/L
+859,852,albumin_level,NORMAL
+860,271,crp,0.0014798 g/L
+861,947,albumin_level,low
+862,260,albumin_level,high
+863,163,albumin_level,HIGH
+864,556,wbc_z_score,1.757303
+865,88,wbc_z_score,4.539737
+866,3,albumin_level,normal
+867,296,wbc_z_score,6.007991
+868,5,crp,0.0016702 g/L
+869,606,wbc_z_score,-4.330261
+870,534,wbc_z_score,2.90235
+871,84,albumin_level,normal
+872,299,wbc_z_score,-1.095822
+873,44,wbc_z_score,1.124596
+874,850,albumin_level,normal
+875,820,crp,1.1357 mg/L
+876,490,wbc_z_score,1.601831
+877,428,albumin_level,NORMAL
+878,863,wbc_z_score,1.570813
+879,127,wbc_z_score,1.547915
+880,159,wbc_z_score,0.51005
+881,957,albumin_level,normal
+882,399,crp,1.6431 mg/L
+883,867,wbc_z_score,-0.362742
+884,323,albumin_level,HIGH
+885,261,wbc_z_score,3.591979
+886,288,wbc_z_score,1.129375
+887,47,crp,0.0007607 g/L
+888,265,crp,0.5861 mg/L
+889,941,crp,0.0018926 g/L
+890,497,wbc_z_score,-0.768587
+891,694,albumin_level,normal
+892,411,crp,0.0005224 g/L
+893,736,wbc_z_score,-3.169966
+894,886,albumin_level,LOW
+895,662,albumin_level,normal
+896,877,wbc_z_score,-0.869077
+897,738,albumin_level,normal
+898,754,wbc_z_score,4.465539
+899,315,albumin_level,normal
+900,813,crp,0.1036 mg/L
+901,903,crp,0.0005298 g/L
+902,477,crp,0.0015063 g/L
+903,60,wbc_z_score,0.562208
+904,492,albumin_level,low
+905,721,wbc_z_score,1.15343
+906,688,albumin_level,normal
+907,351,albumin_level,HIGH
+908,313,albumin_level,high
+909,958,albumin_level,NORMAL
+910,364,crp,0.0015911 g/L
+911,551,wbc_z_score,-0.965465
+912,784,wbc_z_score,1.555315
+913,840,crp,1.7308 mg/L
+914,24,crp,1.2577 mg/L
+915,298,wbc_z_score,0.548571
+916,24,albumin_level,HIGH
+917,1000,albumin_level,LOW
+918,573,wbc_z_score,3.460492
+919,211,crp,0.000359 g/L
+920,57,albumin_level,normal
+921,576,wbc_z_score,0.379874
+922,768,albumin_level,normal
+923,247,crp,0.0016398 g/L
+924,459,albumin_level,normal
+925,765,crp,0.00049 g/L
+926,548,albumin_level,NORMAL
+927,481,wbc_z_score,2.874897
+928,506,albumin_level,normal
+929,222,wbc_z_score,4.250988
+930,111,wbc_z_score,5.653852
+931,439,wbc_z_score,5.139364
+932,899,wbc_z_score,5.529619
+933,192,wbc_z_score,3.784966
+934,284,albumin_level,NORMAL
+935,781,albumin_level,LOW
+936,511,crp,0.001243 g/L
+937,280,albumin_level,NORMAL
+938,925,albumin_level,normal
+939,370,crp,0.0007464 g/L
+940,697,crp,0.6791 mg/L
+941,144,albumin_level,NORMAL
+942,811,albumin_level,LOW
+943,269,wbc_z_score,0.102392
+944,209,albumin_level,normal
+945,203,albumin_level,NORMAL
+946,223,wbc_z_score,-0.007504
+947,63,albumin_level,NORMAL
+948,105,crp,0.191 mg/L
+949,535,albumin_level,high
+950,909,wbc_z_score,2.43849
+951,687,wbc_z_score,3.250485
+952,995,wbc_z_score,1.586378
+953,884,crp,0.0010767 g/L
+954,727,wbc_z_score,0.318381
+955,181,albumin_level,normal
+956,51,albumin_level,HIGH
+957,523,wbc_z_score,2.4851
+958,149,crp,0.0011161 g/L
+959,876,wbc_z_score,0.224004
+960,433,wbc_z_score,-0.856156
+961,781,crp,0.9895 mg/L
+962,378,wbc_z_score,-2.960342
+963,238,wbc_z_score,-0.95668
+964,349,albumin_level,NORMAL
+965,571,albumin_level,normal
+966,47,wbc_z_score,-3.043353
+967,263,wbc_z_score,1.83761
+968,278,crp,0.5294 mg/L
+969,267,wbc_z_score,4.013801
+970,973,crp,0.049 mg/L
+971,651,albumin_level,NORMAL
+972,994,crp,0.5008 mg/L
+973,369,wbc_z_score,2.794358
+974,101,albumin_level,LOW
+975,533,wbc_z_score,5.546819
+976,969,albumin_level,normal
+977,309,wbc_z_score,-4.062144
+978,928,albumin_level,HIGH
+979,624,albumin_level,HIGH
+980,740,crp,0.6382 mg/L
+981,753,wbc_z_score,-0.183849
+982,531,albumin_level,NORMAL
+983,1000,wbc_z_score,0.787523
+984,621,wbc_z_score,-2.361418
+985,831,crp,0.0017256 g/L
+986,532,albumin_level,normal
+987,470,albumin_level,normal
+988,935,wbc_z_score,1.759178
+989,274,crp,0.2163 mg/L
+990,535,crp,1.1104 mg/L
+991,136,crp,0.0002261 g/L
+992,134,crp,1.0228 mg/L
+993,946,wbc_z_score,1.647428
+994,19,crp,0.9694 mg/L
+995,933,crp,0.0004781 g/L
+996,407,crp,0.0002308 g/L
+997,448,crp,1.4791 mg/L
+998,596,wbc_z_score,3.650908
+999,843,albumin_level,normal
+1000,745,crp,0.1562 mg/L
+1001,116,albumin_level,HIGH
+1002,870,crp,0.001121 g/L
+1003,171,albumin_level,low
+1004,468,wbc_z_score,2.042891
+1005,444,wbc_z_score,2.878884
+1006,505,crp,1.3058 mg/L
+1007,70,wbc_z_score,-0.076519
+1008,423,albumin_level,normal
+1009,879,wbc_z_score,-0.374365
+1010,509,wbc_z_score,1.547288
+1011,110,wbc_z_score,3.438284
+1012,49,crp,0.2087 mg/L
+1013,668,wbc_z_score,5.590951
+1014,763,albumin_level,high
+1015,202,albumin_level,NORMAL
+1016,932,wbc_z_score,2.368221
+1017,706,crp,0.0014307 g/L
+1018,734,wbc_z_score,3.599389
+1019,102,wbc_z_score,1.59834
+1020,520,crp,0.0010468 g/L
+1021,430,crp,1.0208 mg/L
+1022,594,wbc_z_score,1.956748
+1023,606,crp,0.0015536 g/L
+1024,813,albumin_level,HIGH
+1025,559,crp,0.4776 mg/L
+1026,304,crp,1.2142 mg/L
+1027,886,crp,1.9216 mg/L
+1028,381,albumin_level,low
+1029,732,wbc_z_score,-1.32264
+1030,507,albumin_level,normal
+1031,197,crp,1.1581 mg/L
+1032,912,crp,0.5923 mg/L
+1033,520,wbc_z_score,3.832871
+1034,5,wbc_z_score,4.463174
+1035,755,crp,0.0010556 g/L
+1036,787,wbc_z_score,1.862176
+1037,777,crp,0.7808 mg/L
+1038,442,albumin_level,NORMAL
+1039,949,wbc_z_score,2.530586
+1040,290,albumin_level,normal
+1041,874,albumin_level,low
+1042,16,crp,0.1652 mg/L
+1043,976,wbc_z_score,5.127997
+1044,33,crp,0.000956 g/L
+1045,513,wbc_z_score,3.193743
+1046,637,crp,1.3748 mg/L
+1047,888,albumin_level,normal
+1048,278,albumin_level,NORMAL
+1049,582,wbc_z_score,-1.382453
+1050,766,wbc_z_score,2.211722
+1051,77,crp,0.0013682 g/L
+1052,533,crp,1.6058 mg/L
+1053,938,albumin_level,NORMAL
+1054,258,crp,0.0012011 g/L
+1055,88,albumin_level,normal
+1056,104,wbc_z_score,3.286564
+1057,985,wbc_z_score,0.029569
+1058,418,crp,0.3826 mg/L
+1059,620,crp,0.0015604 g/L
+1060,236,crp,0.0013854 g/L
+1061,817,wbc_z_score,2.034346
+1062,708,crp,1.28 mg/L
+1063,153,albumin_level,HIGH
+1064,997,albumin_level,NORMAL
+1065,196,albumin_level,normal
+1066,928,wbc_z_score,-0.099579
+1067,967,wbc_z_score,5.024467
+1068,83,albumin_level,normal
+1069,775,crp,0.0003633 g/L
+1070,828,crp,0.0017642 g/L
+1071,542,wbc_z_score,-5.019866
+1072,602,crp,1.7173 mg/L
+1073,802,albumin_level,HIGH
+1074,403,crp,0.0921 mg/L
+1075,815,albumin_level,NORMAL
+1076,829,albumin_level,NORMAL
+1077,525,wbc_z_score,1.451884
+1078,593,albumin_level,high
+1079,306,albumin_level,normal
+1080,37,wbc_z_score,5.286042
+1081,169,crp,0.0012966 g/L
+1082,114,wbc_z_score,2.939205
+1083,326,crp,1.704 mg/L
+1084,154,wbc_z_score,1.717059
+1085,120,albumin_level,normal
+1086,150,wbc_z_score,-0.487565
+1087,974,albumin_level,low
+1088,716,albumin_level,low
+1089,336,crp,0.0003469 g/L
+1090,807,wbc_z_score,-1.255997
+1091,752,albumin_level,normal
+1092,860,albumin_level,NORMAL
+1093,384,wbc_z_score,2.980374
+1094,383,albumin_level,NORMAL
+1095,135,crp,0.4332 mg/L
+1096,696,wbc_z_score,-1.702021
+1097,392,crp,0.0004047 g/L
+1098,945,wbc_z_score,0.509888
+1099,361,wbc_z_score,4.166593
+1100,268,albumin_level,normal
+1101,867,albumin_level,NORMAL
+1102,372,albumin_level,NORMAL
+1103,763,crp,0.8664 mg/L
+1104,999,albumin_level,normal
+1105,469,wbc_z_score,-2.747682
+1106,629,crp,0.0012628 g/L
+1107,742,crp,0.0004602 g/L
+1108,419,wbc_z_score,2.730945
+1109,414,wbc_z_score,-4.945317
+1110,121,wbc_z_score,2.311391
+1111,709,crp,0.0011449 g/L
+1112,951,albumin_level,normal
+1113,894,crp,0.0012705 g/L
+1114,350,wbc_z_score,3.34385
+1115,861,wbc_z_score,-5.792311
+1116,43,wbc_z_score,-2.890747
+1117,291,crp,0.0012183 g/L
+1118,990,wbc_z_score,1.555684
+1119,108,albumin_level,NORMAL
+1120,663,albumin_level,NORMAL
+1121,140,crp,0.2334 mg/L
+1122,65,crp,0.0011836 g/L
+1123,314,albumin_level,normal
+1124,117,crp,0.0018289 g/L
+1125,455,wbc_z_score,4.247187
+1126,317,albumin_level,NORMAL
+1127,733,wbc_z_score,3.332466
+1128,621,crp,0.0006622 g/L
+1129,422,wbc_z_score,5.20275
+1130,220,wbc_z_score,3.106847
+1131,927,albumin_level,high
+1132,232,albumin_level,LOW
+1133,729,crp,0.0022579 g/L
+1134,659,wbc_z_score,1.833816
+1135,147,albumin_level,NORMAL
+1136,276,albumin_level,NORMAL
+1137,86,crp,0.0003382 g/L
+1138,897,wbc_z_score,7.615363
+1139,926,albumin_level,NORMAL
+1140,566,albumin_level,low
+1141,343,crp,0.0014063 g/L
+1142,168,albumin_level,LOW
+1143,348,albumin_level,HIGH
+1144,162,albumin_level,NORMAL
+1145,811,wbc_z_score,-0.528693
+1146,146,albumin_level,normal
+1147,640,crp,0.2624 mg/L
+1148,722,wbc_z_score,0.926861
+1149,147,crp,0.0018675 g/L
+1150,186,albumin_level,NORMAL
+1151,866,wbc_z_score,0.227272
+1152,433,crp,0.0002442 g/L
+1153,370,albumin_level,NORMAL
+1154,482,wbc_z_score,-1.659451
+1155,145,crp,0.0001719 g/L
+1156,618,crp,1.5314 mg/L
+1157,165,albumin_level,normal
+1158,540,wbc_z_score,2.402619
+1159,140,albumin_level,LOW
+1160,351,wbc_z_score,2.6964
+1161,535,wbc_z_score,-0.469261
+1162,732,albumin_level,low
+1163,130,albumin_level,NORMAL
+1164,423,wbc_z_score,-1.178654
+1165,840,wbc_z_score,-0.03551
+1166,942,crp,0.4923 mg/L
+1167,411,albumin_level,NORMAL
+1168,428,wbc_z_score,2.915579
+1169,671,wbc_z_score,3.093046
+1170,848,crp,0.001021 g/L
+1171,651,crp,0.0017956 g/L
+1172,682,crp,0.0015049 g/L
+1173,580,albumin_level,NORMAL
+1174,238,albumin_level,HIGH
+1175,565,crp,0.0002158 g/L
+1176,762,wbc_z_score,1.371711
+1177,29,albumin_level,NORMAL
+1178,565,albumin_level,NORMAL
+1179,675,albumin_level,normal
+1180,143,crp,0.2109 mg/L
+1181,759,wbc_z_score,2.065319
+1182,284,wbc_z_score,3.800104
+1183,289,albumin_level,high
+1184,53,albumin_level,normal
+1185,768,wbc_z_score,-1.441893
+1186,41,crp,0.7829 mg/L
+1187,102,crp,1.6659 mg/L
+1188,31,crp,0.0006112 g/L
+1189,676,albumin_level,NORMAL
+1190,161,wbc_z_score,3.248328
+1191,360,wbc_z_score,2.95275
+1192,496,albumin_level,LOW
+1193,52,albumin_level,NORMAL
+1194,550,crp,1.2479 mg/L
+1195,612,albumin_level,NORMAL
+1196,28,crp,0.00143 g/L
+1197,930,crp,0.0006875 g/L
+1198,687,crp,1.4815 mg/L
+1199,939,crp,0.00026 g/L
+1200,821,albumin_level,normal
+1201,442,wbc_z_score,3.5789
+1202,388,albumin_level,normal
+1203,550,wbc_z_score,5.500447
+1204,640,albumin_level,HIGH
+1205,118,crp,0.4297 mg/L
+1206,600,wbc_z_score,4.020076
+1207,64,albumin_level,high
+1208,636,crp,0.0007103 g/L
+1209,4,albumin_level,normal
+1210,508,wbc_z_score,0.57334
+1211,352,wbc_z_score,3.66884
+1212,334,albumin_level,normal
+1213,792,wbc_z_score,3.853677
+1214,835,wbc_z_score,-7.419507
+1215,748,wbc_z_score,3.053229
+1216,441,albumin_level,normal
+1217,330,crp,0.0014696 g/L
+1218,860,crp,1.662 mg/L
+1219,490,crp,0.0011816 g/L
+1220,969,wbc_z_score,4.191493
+1221,68,wbc_z_score,3.61644
+1222,41,wbc_z_score,2.810411
+1223,7,albumin_level,NORMAL
+1224,513,crp,1.2783 mg/L
+1225,967,albumin_level,LOW
+1226,254,wbc_z_score,3.611937
+1227,745,wbc_z_score,0.424388
+1228,772,crp,1.5897 mg/L
+1229,825,albumin_level,NORMAL
+1230,830,wbc_z_score,2.671069
+1231,78,wbc_z_score,3.455146
+1232,477,wbc_z_score,7.718965
+1233,680,albumin_level,low
+1234,618,wbc_z_score,4.000748
+1235,891,albumin_level,high
+1236,702,crp,0.2429 mg/L
+1237,440,albumin_level,NORMAL
+1238,409,crp,0.0012423 g/L
+1239,560,wbc_z_score,3.160348
+1240,514,albumin_level,NORMAL
+1241,398,albumin_level,normal
+1242,98,albumin_level,normal
+1243,543,crp,0.0006093 g/L
+1244,67,albumin_level,HIGH
+1245,657,wbc_z_score,-2.601107
+1246,180,albumin_level,LOW
+1247,547,wbc_z_score,1.22362
+1248,501,crp,0.0007809 g/L
+1249,234,albumin_level,LOW
+1250,97,crp,1.2274 mg/L
+1251,899,albumin_level,normal
+1252,767,wbc_z_score,1.087565
+1253,815,crp,1.2311 mg/L
+1254,161,crp,0.8235 mg/L
+1255,130,wbc_z_score,5.076346
+1256,675,wbc_z_score,2.136178
+1257,272,wbc_z_score,-0.721465
+1258,588,crp,0.9167 mg/L
+1259,140,wbc_z_score,2.648136
+1260,519,wbc_z_score,-2.316739
+1261,489,wbc_z_score,4.949234
+1262,667,wbc_z_score,1.818332
+1263,680,crp,0.6144 mg/L
+1264,587,crp,0.0005677 g/L
+1265,904,albumin_level,high
+1266,992,albumin_level,NORMAL
+1267,49,wbc_z_score,-2.401309
+1268,648,crp,0.0012966 g/L
+1269,953,wbc_z_score,6.547594
+1270,677,wbc_z_score,0.144329
+1271,246,wbc_z_score,-1.067426
+1272,303,albumin_level,NORMAL
+1273,542,albumin_level,LOW
+1274,248,wbc_z_score,3.320368
+1275,300,albumin_level,HIGH
+1276,937,crp,0.0003836 g/L
+1277,211,wbc_z_score,1.571062
+1278,415,crp,0.9234 mg/L
+1279,209,wbc_z_score,1.941436
+1280,115,albumin_level,NORMAL
+1281,72,albumin_level,NORMAL
+1282,800,wbc_z_score,1.672926
+1283,682,albumin_level,high
+1284,268,crp,0.656 mg/L
+1285,578,wbc_z_score,4.288073
+1286,373,crp,0.0005119 g/L
+1287,252,crp,0.0015757 g/L
+1288,728,crp,0.0010513 g/L
+1289,715,albumin_level,high
+1290,589,wbc_z_score,2.705766
+1291,311,crp,0.0003961 g/L
+1292,586,wbc_z_score,1.041907
+1293,700,crp,0.26 mg/L
+1294,178,crp,0.0345 mg/L
+1295,561,albumin_level,normal
+1296,397,crp,0.0016836 g/L
+1297,933,wbc_z_score,9.626528
+1298,645,wbc_z_score,-0.909952
+1299,509,crp,0.0734 mg/L
+1300,833,wbc_z_score,4.554371
+1301,904,wbc_z_score,5.224473
+1302,982,wbc_z_score,-0.214828
+1303,921,wbc_z_score,-0.027852
+1304,687,albumin_level,veryhigh
+1305,189,albumin_level,high
+1306,979,crp,0.1242 mg/L
+1307,721,albumin_level,high
+1308,902,albumin_level,NORMAL
+1309,663,wbc_z_score,2.831229
+1310,495,crp,0.0018979 g/L
+1311,11,wbc_z_score,1.732662
+1312,253,albumin_level,NORMAL
+1313,8,albumin_level,NORMAL
+1314,668,albumin_level,high
+1315,925,wbc_z_score,3.016169
+1316,18,albumin_level,normal
+1317,238,crp,0.4093 mg/L
+1318,180,crp,1.559 mg/L
+1319,605,crp,0.0016323 g/L
+1320,604,albumin_level,normal
+1321,39,crp,0.001461 g/L
+1322,951,crp,1.0529 mg/L
+1323,87,albumin_level,NORMAL
+1324,504,albumin_level,high
+1325,984,wbc_z_score,4.898431
+1326,901,albumin_level,LOW
+1327,912,wbc_z_score,-0.261446
+1328,368,wbc_z_score,4.088505
+1329,664,albumin_level,HIGH
+1330,314,crp,0.0008246 g/L
+1331,744,wbc_z_score,4.120255
+1332,85,crp,0.0008951 g/L
+1333,636,wbc_z_score,3.193337
+1334,342,albumin_level,NORMAL
+1335,853,crp,0.0013352 g/L
+1336,612,wbc_z_score,2.348292
+1337,422,albumin_level,LOW
+1338,388,wbc_z_score,-2.190087
+1339,451,crp,0.2455 mg/L
+1340,517,wbc_z_score,0.08199
+1341,156,albumin_level,normal
+1342,162,wbc_z_score,6.289371
+1343,364,wbc_z_score,2.801587
+1344,6,albumin_level,NORMAL
+1345,989,albumin_level,HIGH
+1346,704,crp,0.0015155 g/L
+1347,834,albumin_level,normal
+1348,554,wbc_z_score,0.933231
+1349,423,crp,0.9935 mg/L
+1350,908,albumin_level,HIGH
+1351,600,albumin_level,HIGH
+1352,836,albumin_level,normal
+1353,668,crp,0.0018147 g/L
+1354,426,crp,1.3225 mg/L
+1355,761,crp,0.0014491 g/L
+1356,185,crp,0.0006361 g/L
+1357,460,wbc_z_score,1.66997
+1358,377,wbc_z_score,0.324759
+1359,628,wbc_z_score,3.766359
+1360,911,crp,1.5622 mg/L
+1361,234,crp,1.0479 mg/L
+1362,510,crp,2.0994 mg/L
+1363,306,crp,0.0017848 g/L
+1364,137,wbc_z_score,-1.628568
+1365,40,albumin_level,normal
+1366,189,crp,0.677 mg/L
+1367,437,crp,0.0012487 g/L
+1368,610,albumin_level,normal
+1369,250,albumin_level,NORMAL
+1370,774,wbc_z_score,2.913609
+1371,359,wbc_z_score,6.805402
+1372,693,albumin_level,normal
+1373,386,wbc_z_score,2.875088
+1374,617,crp,0.0003733 g/L
+1375,420,albumin_level,low
+1376,977,wbc_z_score,-0.836941
+1377,545,wbc_z_score,2.7611
+1378,593,crp,1.4569 mg/L
+1379,51,crp,1.7465 mg/L
+1380,438,albumin_level,normal
+1381,627,crp,0.0015485 g/L
+1382,76,wbc_z_score,-0.091701
+1383,553,crp,1.2623 mg/L
+1384,527,albumin_level,NORMAL
+1385,781,wbc_z_score,5.540954
+1386,891,crp,0.2559 mg/L
+1387,884,wbc_z_score,-0.873543
+1388,623,crp,0.4852 mg/L
+1389,249,albumin_level,high
+1390,559,wbc_z_score,2.536187
+1391,416,wbc_z_score,2.326418
+1392,607,albumin_level,normal
+1393,934,wbc_z_score,2.989631
+1394,67,crp,1.6389 mg/L
+1395,189,wbc_z_score,1.919002
+1396,164,wbc_z_score,2.780828
+1397,1,wbc_z_score,3.925653
+1398,52,wbc_z_score,2.667908
+1399,710,wbc_z_score,4.968107
+1400,56,albumin_level,normal
+1401,401,wbc_z_score,-0.800165
+1402,338,albumin_level,normal
+1403,125,wbc_z_score,2.678164
+1404,670,wbc_z_score,1.503342
+1405,800,albumin_level,normal
+1406,390,crp,0.0009626 g/L
+1407,922,crp,0.3595 mg/L
+1408,39,albumin_level,low
+1409,888,wbc_z_score,1.230429
+1410,375,wbc_z_score,-0.930114
+1411,926,crp,1.3216 mg/L
+1412,492,wbc_z_score,-0.982194
+1413,256,crp,0.0009103 g/L
+1414,310,crp,0.0008272 g/L
+1415,424,wbc_z_score,0.771219
+1416,420,crp,0.0006216 g/L
+1417,144,crp,1.432 mg/L
+1418,960,albumin_level,normal
+1419,404,wbc_z_score,5.984381
+1420,75,albumin_level,HIGH
+1421,36,albumin_level,normal
+1422,196,wbc_z_score,4.353056
+1423,731,wbc_z_score,1.844743
+1424,366,crp,1.0015 mg/L
+1425,840,albumin_level,NORMAL
+1426,762,crp,0.0004598 g/L
+1427,286,wbc_z_score,2.100564
+1428,93,wbc_z_score,3.077735
+1429,508,crp,0.0004474 g/L
+1430,381,crp,0.0014695 g/L
+1431,385,crp,0.0013503 g/L
+1432,194,crp,0.0018399 g/L
+1433,131,crp,1.6496 mg/L
+1434,714,wbc_z_score,-1.930448
+1435,557,wbc_z_score,-1.230121
+1436,693,wbc_z_score,0.866224
+1437,971,crp,0.0003763 g/L
+1438,387,crp,1.2243 mg/L
+1439,863,albumin_level,HIGH
+1440,910,wbc_z_score,1.353093
+1441,266,albumin_level,HIGH
+1442,58,albumin_level,normal
+1443,339,crp,0.0194 mg/L
+1444,739,crp,0.0007764 g/L
+1445,175,crp,0.0011034 g/L
+1446,633,albumin_level,NORMAL
+1447,613,crp,0.0011557 g/L
+1448,230,wbc_z_score,2.307183
+1449,112,wbc_z_score,2.520745
+1450,344,crp,0.0006762 g/L
+1451,164,crp,1.3104 mg/L
+1452,780,albumin_level,NORMAL
+1453,381,wbc_z_score,2.993284
+1454,808,crp,1.347 mg/L
+1455,948,wbc_z_score,2.88109
+1456,512,albumin_level,normal
+1457,398,crp,0.0976 mg/L
+1458,911,albumin_level,NORMAL
+1459,470,wbc_z_score,1.431975
+1460,221,crp,0.4669 mg/L
+1461,847,wbc_z_score,1.045174
+1462,393,wbc_z_score,-5.071484
+1463,292,albumin_level,NORMAL
+1464,404,albumin_level,normal
+1465,371,albumin_level,HIGH
+1466,302,wbc_z_score,4.61307
+1467,145,wbc_z_score,3.003592
+1468,252,albumin_level,NORMAL
+1469,802,crp,1.8164 mg/L
+1470,110,crp,0.4778 mg/L
+1471,598,albumin_level,HIGH
+1472,477,albumin_level,LOW
+1473,530,albumin_level,LOW
+1474,92,albumin_level,high
+1475,539,crp,0.5135 mg/L
+1476,741,albumin_level,normal
+1477,282,wbc_z_score,4.591073
+1478,678,crp,0.0004735 g/L
+1479,34,wbc_z_score,0.715002
+1480,351,crp,0.0016692 g/L
+1481,839,wbc_z_score,-0.365824
+1482,79,crp,0.0013492 g/L
+1483,453,albumin_level,high
+1484,546,albumin_level,NORMAL
+1485,345,crp,0.3484 mg/L
+1486,269,crp,0.0005677 g/L
+1487,846,wbc_z_score,2.004114
+1488,258,wbc_z_score,2.275365
+1489,615,wbc_z_score,-4.666824
+1490,796,albumin_level,normal
+1491,16,albumin_level,high
+1492,655,crp,1.0008 mg/L
+1493,643,wbc_z_score,4.39065
+1494,669,wbc_z_score,0.696326
+1495,865,wbc_z_score,3.653004
+1496,165,wbc_z_score,-0.056653
+1497,290,crp,0.0006179 g/L
+1498,568,wbc_z_score,1.614738
+1499,326,albumin_level,normal
+1500,578,albumin_level,normal
+1501,728,wbc_z_score,-1.418572
+1502,150,crp,0.0003244 g/L
+1503,167,wbc_z_score,4.09509
+1504,240,crp,0.1321 mg/L
+1505,607,wbc_z_score,3.243875
+1506,870,wbc_z_score,2.59475
+1507,900,albumin_level,LOW
+1508,709,wbc_z_score,5.447075
+1509,313,crp,1.5594 mg/L
+1510,987,wbc_z_score,2.902003
+1511,155,albumin_level,LOW
+1512,353,wbc_z_score,-4.417935
+1513,568,crp,0.0003769 g/L
+1514,335,wbc_z_score,0.722205
+1515,787,albumin_level,normal
+1516,552,wbc_z_score,0.093076
+1517,366,wbc_z_score,-0.107975
+1518,979,wbc_z_score,1.541921
+1519,636,albumin_level,NORMAL
+1520,853,albumin_level,normal
+1521,628,crp,0.969 mg/L
+1522,646,albumin_level,LOW
+1523,942,wbc_z_score,3.105526
+1524,707,albumin_level,low
+1525,243,wbc_z_score,1.924716
+1526,885,crp,0.0001345 g/L
+1527,829,crp,0.3638 mg/L
+1528,301,wbc_z_score,3.112708
+1529,832,crp,0.0016689 g/L
+1530,305,crp,1.5992 mg/L
+1531,913,wbc_z_score,3.243687
+1532,216,crp,1.2087 mg/L
+1533,53,crp,0.0007402 g/L
+1534,282,crp,0.0008238 g/L
+1535,301,crp,0.002135 g/L
+1536,360,albumin_level,HIGH
+1537,395,albumin_level,NORMAL
+1538,998,albumin_level,normal
+1539,369,albumin_level,high
+1540,724,albumin_level,NORMAL
+1541,644,albumin_level,low
+1542,802,wbc_z_score,4.432677
+1543,946,crp,0.2677 mg/L
+1544,434,albumin_level,NORMAL
+1545,896,crp,0.0003307 g/L
+1546,201,wbc_z_score,-1.833049
+1547,773,crp,1.9946 mg/L
+1548,890,crp,0.6642 mg/L
+1549,333,wbc_z_score,1.381223
+1550,217,wbc_z_score,2.806745
+1551,677,albumin_level,NORMAL
+1552,652,wbc_z_score,-1.996135
+1553,435,albumin_level,normal
+1554,373,wbc_z_score,1.94557
+1555,785,albumin_level,normal
+1556,457,wbc_z_score,3.327316
+1557,906,crp,0.2413 mg/L
+1558,255,crp,0.0014729 g/L
+1559,100,crp,0.2967 mg/L
+1560,790,albumin_level,LOW
+1561,318,crp,0.0008284 g/L
+1562,406,crp,0.000485 g/L
+1563,647,albumin_level,normal
+1564,931,wbc_z_score,-6.426676
+1565,276,wbc_z_score,2.526518
+1566,943,wbc_z_score,-2.146695
+1567,249,wbc_z_score,0.025983
+1568,611,wbc_z_score,-0.482714
+1569,493,albumin_level,HIGH
+1570,82,albumin_level,NORMAL
+1571,115,crp,1.6148 mg/L
+1572,650,crp,0.0008196 g/L
+1573,571,wbc_z_score,4.748346
+1574,66,wbc_z_score,3.729121
+1575,308,albumin_level,high
+1576,28,wbc_z_score,2.084507
+1577,371,crp,0.0017012 g/L
+1578,426,wbc_z_score,3.194728
+1579,353,albumin_level,normal
+1580,823,crp,1.8888 mg/L
+1581,650,albumin_level,normal
+1582,103,crp,0.4863 mg/L
+1583,324,albumin_level,LOW
+1584,786,albumin_level,normal
+1585,704,wbc_z_score,2.681197
+1586,190,wbc_z_score,1.848286
+1587,566,wbc_z_score,2.663929
+1588,389,crp,0.0008175 g/L
+1589,762,albumin_level,NORMAL
+1590,467,albumin_level,low
+1591,385,wbc_z_score,5.057517
+1592,417,crp,0.0014828 g/L
+1593,30,albumin_level,normal
+1594,584,wbc_z_score,4.020771
+1595,866,albumin_level,normal
+1596,60,crp,0.0014655 g/L
+1597,357,albumin_level,high
+1598,443,crp,0.0019113 g/L
+1599,418,wbc_z_score,-2.509896
+1600,104,crp,0.0015662 g/L
+1601,219,wbc_z_score,5.650011
+1602,999,wbc_z_score,7.442133
+1603,74,wbc_z_score,3.793768
+1604,853,wbc_z_score,-0.018016
+1605,31,albumin_level,high
+1606,431,crp,0.2997 mg/L
+1607,904,crp,1.9729 mg/L
+1608,340,crp,1.2338 mg/L
+1609,597,albumin_level,low
+1610,588,wbc_z_score,3.661665
+1611,595,wbc_z_score,0.941601
+1612,615,albumin_level,high
+1613,731,albumin_level,low
+1614,918,wbc_z_score,-1.040709
+1615,159,crp,0.3846 mg/L
+1616,330,albumin_level,NORMAL
+1617,54,crp,0.0005235 g/L
+1618,362,albumin_level,high
+1619,583,albumin_level,LOW
+1620,217,crp,1.2167 mg/L
+1621,471,wbc_z_score,2.718908
+1622,783,wbc_z_score,0.810969
+1623,737,crp,0.1956 mg/L
+1624,131,wbc_z_score,2.073578
+1625,137,albumin_level,normal
+1626,246,crp,0.0004648 g/L
+1627,208,crp,1.1748 mg/L
+1628,630,albumin_level,veryhigh
+1629,61,albumin_level,high
+1630,46,albumin_level,NORMAL
+1631,324,wbc_z_score,1.722125
+1632,386,albumin_level,NORMAL
+1633,362,crp,0.000716 g/L
+1634,259,wbc_z_score,0.641432
+1635,806,crp,0.0018372 g/L
+1636,152,albumin_level,low
+1637,147,wbc_z_score,3.047788
+1638,368,albumin_level,NORMAL
+1639,748,crp,0.0016594 g/L
+1640,803,crp,0.000788 g/L
+1641,181,wbc_z_score,2.878051
+1642,923,albumin_level,normal
+1643,666,wbc_z_score,2.215603
+1644,826,wbc_z_score,-2.793656
+1645,760,wbc_z_score,-1.073518
+1646,171,wbc_z_score,2.612286
+1647,345,wbc_z_score,1.22679
+1648,715,crp,1.1686 mg/L
+1649,677,crp,0.0005667 g/L
+1650,325,crp,0.2885 mg/L
+1651,644,wbc_z_score,3.427881
+1652,438,wbc_z_score,4.430082
+1653,521,wbc_z_score,1.402973
+1654,562,crp,0.9305 mg/L
+1655,392,albumin_level,LOW
+1656,363,crp,0.0473 mg/L
+1657,719,wbc_z_score,1.742639
+1658,805,wbc_z_score,1.896551
+1659,509,albumin_level,HIGH
+1660,976,crp,1.9578 mg/L
+1661,819,albumin_level,HIGH
+1662,742,wbc_z_score,-0.072834
+1663,783,crp,0.572 mg/L
+1664,106,albumin_level,LOW
+1665,561,crp,0.0015827 g/L
+1666,849,albumin_level,NORMAL
+1667,547,albumin_level,high
+1668,328,crp,0.0014129 g/L
+1669,646,crp,1.5413 mg/L
+1670,592,crp,0.0002408 g/L
+1671,380,crp,0.0011691 g/L
+1672,318,albumin_level,NORMAL
+1673,215,wbc_z_score,1.229526
+1674,923,wbc_z_score,0.63768
+1675,123,crp,0.0001463 g/L
+1676,272,crp,0.0001045 g/L
+1677,685,albumin_level,normal
+1678,315,crp,6.65e-05 g/L
+1679,460,crp,0.442 mg/L
+1680,527,crp,1.8091 mg/L
+1681,307,wbc_z_score,4.294011
+1682,193,wbc_z_score,3.835896
+1683,978,albumin_level,normal
+1684,629,albumin_level,high
+1685,679,wbc_z_score,7.143326
+1686,871,wbc_z_score,1.721808
+1687,688,wbc_z_score,-0.093265
+1688,601,crp,0.3782 mg/L
+1689,389,albumin_level,NORMAL
+1690,970,crp,1.4433 mg/L
+1691,506,wbc_z_score,1.893886
+1692,936,crp,0.2866 mg/L
+1693,397,albumin_level,NORMAL
+1694,68,albumin_level,NORMAL
+1695,95,albumin_level,normal
+1696,795,wbc_z_score,-2.852049
+1697,625,albumin_level,low
+1698,657,albumin_level,high
+1699,129,albumin_level,NORMAL
+1700,373,albumin_level,LOW
+1701,414,crp,1.251 mg/L
+1702,971,albumin_level,normal
+1703,207,albumin_level,high
+1704,204,crp,0.5862 mg/L
+1705,233,crp,0.8858 mg/L
+1706,331,wbc_z_score,0.553148
+1707,188,crp,0.7304 mg/L
+1708,976,albumin_level,normal
+1709,186,crp,0.9511 mg/L
+1710,163,wbc_z_score,7.603179
+1711,637,wbc_z_score,2.323935
+1712,755,wbc_z_score,3.094663
+1713,564,crp,0.0004651 g/L
+1714,442,crp,2.1678 mg/L
+1715,815,wbc_z_score,6.44564
+1716,372,crp,0.2877 mg/L
+1717,416,albumin_level,normal
+1718,134,albumin_level,normal
+1719,735,albumin_level,normal
+1720,679,albumin_level,high
+1721,864,crp,2.23e-05 g/L
+1722,664,crp,0.0002438 g/L
+1723,436,crp,0.5034 mg/L
+1724,260,crp,1.4085 mg/L
+1725,680,wbc_z_score,1.985557
+1726,310,wbc_z_score,3.59246
+1727,858,crp,1.5954 mg/L
+1728,9,crp,0.0004124 g/L
+1729,834,crp,0.0013499 g/L
+1730,667,albumin_level,normal
+1731,824,wbc_z_score,1.890058
+1732,882,wbc_z_score,1.224814
+1733,408,wbc_z_score,-5.693287
+1734,671,albumin_level,LOW
+1735,629,wbc_z_score,0.599436
+1736,544,albumin_level,LOW
+1737,494,wbc_z_score,1.703622
+1738,749,wbc_z_score,-2.337274
+1739,99,crp,0.0017588 g/L
+1740,874,wbc_z_score,1.368471
+1741,18,wbc_z_score,1.712299
+1742,842,wbc_z_score,5.665054
+1743,391,albumin_level,normal
+1744,451,albumin_level,high
+1745,338,wbc_z_score,2.584001
+1746,486,wbc_z_score,3.429031
+1747,775,albumin_level,LOW
+1748,877,crp,0.0003951 g/L
+1749,377,crp,0.0007169 g/L
+1750,388,crp,1.5578 mg/L
+1751,981,wbc_z_score,5.395618
+1752,94,albumin_level,normal
+1753,185,albumin_level,NORMAL
+1754,549,wbc_z_score,3.717448
+1755,806,wbc_z_score,0.59728
+1756,803,albumin_level,low
+1757,7,crp,0.001394 g/L
+1758,48,albumin_level,normal
+1759,22,albumin_level,normal
+1760,139,crp,0.5726 mg/L
+1761,740,wbc_z_score,-1.128819
+1762,436,albumin_level,normal
+1763,152,wbc_z_score,0.800802
+1764,406,wbc_z_score,-1.945717
+1765,243,albumin_level,NORMAL
+1766,244,crp,0.0014996 g/L
+1767,908,wbc_z_score,-0.459187
+1768,778,wbc_z_score,3.297638
+1769,23,wbc_z_score,-4.049372
+1770,894,wbc_z_score,0.292649
+1771,745,albumin_level,low
+1772,493,crp,0.0015153 g/L
+1773,691,crp,0.6821 mg/L
+1774,872,crp,1.8455 mg/L
+1775,90,wbc_z_score,5.797044
+1776,988,crp,0.9766 mg/L
+1777,329,crp,0.0008983 g/L
+1778,965,wbc_z_score,1.278212
+1779,169,albumin_level,NORMAL
+1780,826,crp,0.0006214 g/L
+1781,44,crp,0.000581 g/L
+1782,746,wbc_z_score,3.568023
+1783,279,wbc_z_score,3.514473
+1784,946,albumin_level,HIGH
+1785,376,crp,0.0015797 g/L
+1786,486,albumin_level,LOW
+1787,952,crp,0.9488 mg/L
+1788,214,wbc_z_score,1.993838
+1789,94,wbc_z_score,2.617199
+1790,641,albumin_level,NORMAL
+1791,931,albumin_level,low
+1792,83,crp,0.8134 mg/L
+1793,619,crp,0.5684 mg/L
+1794,354,wbc_z_score,-1.138608
+1795,156,wbc_z_score,1.173241
+1796,947,crp,0.0015315 g/L
+1797,690,crp,0.0007816 g/L
+1798,17,albumin_level,high
+1799,715,wbc_z_score,1.366876
+1800,857,wbc_z_score,1.424018
+1801,29,crp,0.0020198 g/L
+1802,402,wbc_z_score,3.882716
+1803,518,wbc_z_score,2.595684
+1804,395,crp,0.0019468 g/L
+1805,385,albumin_level,low
+1806,868,crp,0.0006797 g/L
+1807,998,wbc_z_score,0.744682
+1808,713,albumin_level,NORMAL
+1809,927,crp,0.4232 mg/L
+1810,831,albumin_level,NORMAL
+1811,997,crp,0.7656 mg/L
+1812,148,crp,0.0015195 g/L
+1813,294,albumin_level,NORMAL
+1814,686,albumin_level,LOW
+1815,12,crp,1.8423 mg/L
+1816,259,crp,1.1346 mg/L
+1817,953,crp,1.2083 mg/L
+1818,823,albumin_level,NORMAL
+1819,3,wbc_z_score,0.539612
+1820,85,albumin_level,normal
+1821,461,crp,1.7267 mg/L
+1822,117,wbc_z_score,6.351591
+1823,237,crp,0.0004327 g/L
+1824,472,wbc_z_score,-2.094759
+1825,403,albumin_level,normal
+1826,359,crp,0.0012703 g/L
+1827,807,albumin_level,normal
+1828,810,albumin_level,normal
+1829,137,crp,0.0044 mg/L
+1830,968,albumin_level,NORMAL
+1831,750,crp,1.4185 mg/L
+1832,26,wbc_z_score,2.780769
+1833,158,albumin_level,normal
+1834,623,wbc_z_score,1.769719
+1835,303,wbc_z_score,4.618582
+1836,476,albumin_level,HIGH
+1837,708,albumin_level,low
+1838,850,crp,0.0010252 g/L
+1839,861,crp,1.7197 mg/L
+1840,456,albumin_level,NORMAL
+1841,963,wbc_z_score,3.422783
+1842,449,albumin_level,NORMAL
+1843,724,crp,0.0006498 g/L
+1844,987,albumin_level,high
+1845,751,crp,0.5652 mg/L
+1846,228,albumin_level,high
+1847,865,crp,0.0012659 g/L
+1848,914,crp,0.9124 mg/L
+1849,406,albumin_level,normal
+1850,560,albumin_level,normal
+1851,205,wbc_z_score,2.092844
+1852,394,crp,0.0014799 g/L
+1853,144,wbc_z_score,3.70555
+1854,609,wbc_z_score,1.941884
+1855,221,albumin_level,normal
+1856,227,albumin_level,NORMAL
+1857,966,wbc_z_score,0.505086
+1858,13,crp,0.94 mg/L
+1859,588,albumin_level,NORMAL
+1860,376,wbc_z_score,2.861021
+1861,667,crp,0.000922 g/L
+1862,719,albumin_level,high
+1863,716,wbc_z_score,1.863238
+1864,502,albumin_level,normal
+1865,642,albumin_level,HIGH
+1866,412,albumin_level,NORMAL
+1867,850,wbc_z_score,4.061617
+1868,643,albumin_level,normal
+1869,305,wbc_z_score,3.714257
+1870,466,albumin_level,NORMAL
+1871,61,wbc_z_score,1.883589
+1872,959,albumin_level,normal
+1873,893,wbc_z_score,4.444229
+1874,31,wbc_z_score,5.482614
+1875,653,crp,0.0016208 g/L
+1876,378,albumin_level,NORMAL
+1877,923,crp,0.0006539 g/L
+1878,516,albumin_level,normal
+1879,635,crp,1.8047 mg/L
+1880,65,wbc_z_score,4.19468
+1881,639,wbc_z_score,2.522414
+1882,440,crp,1.5981 mg/L
+1883,434,crp,0.0015069 g/L
+1884,339,albumin_level,low
+1885,114,albumin_level,normal
+1886,452,crp,0.0014023 g/L
+1887,124,wbc_z_score,2.108497
+1888,10,albumin_level,high
+1889,472,crp,0.0013782 g/L
+1890,556,albumin_level,normal
+1891,683,albumin_level,low
+1892,666,albumin_level,normal
+1893,696,crp,0.405 mg/L
+1894,572,wbc_z_score,-1.947447
+1895,224,wbc_z_score,4.183809
+1896,545,crp,0.0009778 g/L
+1897,644,crp,0.3443 mg/L
+1898,563,wbc_z_score,0.913264
+1899,651,wbc_z_score,5.245305
+1900,691,wbc_z_score,3.165609
+1901,207,crp,0.0014341 g/L
+1902,867,crp,0.0008135 g/L
+1903,299,albumin_level,low
+1904,924,crp,1.4021 mg/L
+1905,577,wbc_z_score,-0.025691
+1906,788,crp,1.4609 mg/L
+1907,1,crp,1.2043 mg/L
+1908,91,albumin_level,low
+1909,703,albumin_level,normal
+1910,658,albumin_level,normal
+1911,952,albumin_level,low
+1912,949,albumin_level,NORMAL
+1913,469,crp,0.0001902 g/L
+1914,698,albumin_level,NORMAL
+1915,903,albumin_level,HIGH
+1916,355,albumin_level,high
+1917,678,albumin_level,low
+1918,310,albumin_level,LOW
+1919,989,wbc_z_score,-7.247139
+1920,846,albumin_level,low
+1921,422,crp,1.4921 mg/L
+1922,869,wbc_z_score,-3.080019
+1923,788,albumin_level,NORMAL
+1924,541,crp,0.4171 mg/L
+1925,924,albumin_level,normal
+1926,427,albumin_level,NORMAL
+1927,281,wbc_z_score,0.474556
+1928,14,crp,0.0017558 g/L
+1929,194,albumin_level,low
+1930,793,albumin_level,NORMAL
+1931,932,albumin_level,HIGH
+1932,400,albumin_level,high
+1933,970,wbc_z_score,2.974205
+1934,741,wbc_z_score,-2.072581
+1935,822,crp,0.2366 mg/L
+1936,90,albumin_level,NORMAL
+1937,233,albumin_level,normal
+1938,119,wbc_z_score,4.309734
+1939,394,albumin_level,NORMAL
+1940,673,crp,0.0004098 g/L
+1941,110,albumin_level,HIGH
+1942,605,albumin_level,LOW
+1943,399,albumin_level,low
+1944,75,crp,0.3447 mg/L
+1945,711,wbc_z_score,0.977938
+1946,32,albumin_level,normal
+1947,256,wbc_z_score,1.031819
+1948,214,albumin_level,NORMAL
+1949,712,crp,0.0014804 g/L
+1950,185,wbc_z_score,5.296395
+1951,784,albumin_level,normal
+1952,713,wbc_z_score,1.379805
+1953,816,crp,0.0888 mg/L
+1954,253,crp,0.0017461 g/L
+1955,579,wbc_z_score,-0.615076
+1956,804,wbc_z_score,-0.649546
+1957,873,albumin_level,low
+1958,342,crp,1.6217 mg/L
+1959,631,crp,1.5673 mg/L
+1960,294,crp,0.0016188 g/L
+1961,648,albumin_level,HIGH
+1962,625,wbc_z_score,4.087246
+1963,626,albumin_level,NORMAL
+1964,836,crp,0.0013776 g/L
+1965,407,wbc_z_score,3.976983
+1966,717,albumin_level,high
+1967,401,crp,1.6587 mg/L
+1968,224,crp,0.0003863 g/L
+1969,755,albumin_level,high
+1970,775,wbc_z_score,-1.208045
+1971,38,wbc_z_score,1.959251
+1972,71,albumin_level,NORMAL
+1973,334,crp,0.0003342 g/L
+1974,729,albumin_level,normal
+1975,249,crp,0.3639 mg/L
+1976,524,crp,0.0008987 g/L
+1977,398,wbc_z_score,4.438298
+1978,984,albumin_level,NORMAL
+1979,87,wbc_z_score,4.720794
+1980,357,crp,1.0265 mg/L
+1981,50,crp,0.0015944 g/L
+1982,356,crp,0.1579 mg/L
+1983,524,wbc_z_score,2.285643
+1984,792,crp,0.574 mg/L
+1985,497,crp,0.001518 g/L
+1986,521,albumin_level,low
+1987,958,wbc_z_score,-2.424867
+1988,230,crp,0.0006214 g/L
+1989,739,wbc_z_score,2.785531
+1990,463,wbc_z_score,-1.514921
+1991,220,crp,0.000705 g/L
+1992,6,crp,0.0004332 g/L
+1993,596,albumin_level,LOW
+1994,9,wbc_z_score,0.40453
+1995,436,wbc_z_score,6.052633
+1996,4,wbc_z_score,-3.433742
+1997,279,albumin_level,HIGH
+1998,903,wbc_z_score,1.258206
+1999,503,albumin_level,NORMAL
+2000,656,wbc_z_score,2.407865
+2001,469,albumin_level,veryhigh
+2002,638,wbc_z_score,1.286187
+2003,499,crp,0.0002714 g/L
+2004,887,albumin_level,NORMAL
+2005,367,albumin_level,normal
+2006,53,wbc_z_score,-2.474009
+2007,564,wbc_z_score,-3.845118
+2008,817,crp,1.9754 mg/L
+2009,689,crp,1.5263 mg/L
+2010,109,albumin_level,LOW
+2011,363,wbc_z_score,-3.679969
+2012,27,wbc_z_score,0.238609
+2013,99,albumin_level,low
+2014,491,crp,0.0004333 g/L
+2015,88,crp,0.0012871 g/L
+2016,828,wbc_z_score,1.832594
+2017,413,wbc_z_score,-3.527733
+2018,274,albumin_level,high
+2019,761,wbc_z_score,-0.351648
+2020,902,crp,0.0003387 g/L
+2021,69,wbc_z_score,-7.211438
+2022,690,wbc_z_score,2.163031
+2023,45,albumin_level,normal
+2024,441,crp,0.001599 g/L
+2025,206,crp,0.0016317 g/L
+2026,461,albumin_level,NORMAL
+2027,15,albumin_level,normal
+2028,945,crp,0.0007322 g/L
+2029,502,crp,0.0003423 g/L
+2030,473,crp,0.0013394 g/L
+2031,501,albumin_level,LOW
+2032,182,wbc_z_score,1.825101
+2033,736,crp,1.8314 mg/L
+2034,567,albumin_level,high
+2035,283,wbc_z_score,-1.24012
+2036,690,albumin_level,normal
+2037,743,albumin_level,NORMAL
+2038,879,crp,1.6516 mg/L
+2039,881,albumin_level,NORMAL
+2040,930,wbc_z_score,2.385955
+2041,663,crp,1.5099 mg/L
+2042,125,albumin_level,normal
+2043,501,wbc_z_score,1.401948
+2044,410,albumin_level,HIGH
+2045,545,albumin_level,NORMAL
+2046,634,crp,0.0005292 g/L
+2047,794,wbc_z_score,1.729295
+2048,764,wbc_z_score,2.584688
+2049,756,wbc_z_score,-5.284843
+2050,757,crp,0.9556 mg/L
+2051,825,crp,0.000661 g/L
+2052,662,wbc_z_score,3.134807
+2053,820,albumin_level,NORMAL
+2054,744,crp,0.9004 mg/L
+2055,816,wbc_z_score,4.411876
+2056,942,albumin_level,LOW
+2057,45,wbc_z_score,0.900741
+2058,293,albumin_level,HIGH
+2059,149,wbc_z_score,2.187651
+2060,857,albumin_level,high
+2061,708,wbc_z_score,6.070668
+2062,64,wbc_z_score,0.34909
+2063,780,wbc_z_score,1.307204
+2064,935,albumin_level,low
+2065,471,crp,1.0071 mg/L
+2066,862,albumin_level,NORMAL
+2067,113,wbc_z_score,-3.723999
+2068,464,albumin_level,normal
+2069,368,crp,2.0089 mg/L
+2070,760,crp,1.4195 mg/L
+2071,718,wbc_z_score,2.135986
+2072,142,crp,0.0009237 g/L
+2073,547,crp,0.5925 mg/L
+2074,672,wbc_z_score,1.358212
+2075,980,crp,1.3241 mg/L
+2076,421,crp,0.0016494 g/L
+2077,157,crp,0.0004274 g/L
+2078,481,albumin_level,NORMAL
+2079,200,albumin_level,NORMAL
+2080,128,wbc_z_score,3.38099
+2081,396,wbc_z_score,-2.821833
+2082,920,wbc_z_score,6.337676
+2083,861,albumin_level,HIGH
+2084,324,crp,0.5634 mg/L
+2085,408,crp,0.0018937 g/L
+2086,87,crp,0.0014173 g/L
+2087,322,crp,0.0014895 g/L
+2088,271,albumin_level,low
+2089,720,albumin_level,HIGH
+2090,948,albumin_level,low
+2091,420,wbc_z_score,1.478708
+2092,539,wbc_z_score,-1.237792
+2093,630,wbc_z_score,0.943056
+2094,763,wbc_z_score,-1.04108
+2095,991,crp,0.9576 mg/L
+2096,631,wbc_z_score,0.775572
+2097,610,crp,0.6239 mg/L
+2098,906,albumin_level,normal
+2099,771,albumin_level,verylow
+2100,7,wbc_z_score,4.68135
+2101,347,crp,1.3477 mg/L
+2102,548,wbc_z_score,-0.866552
+2103,22,crp,0.0015177 g/L
+2104,121,crp,0.0010102 g/L
+2105,809,wbc_z_score,2.008933
+2106,240,wbc_z_score,1.251546
+2107,700,albumin_level,LOW
+2108,803,wbc_z_score,0.378207
+2109,575,wbc_z_score,3.215561
+2110,318,wbc_z_score,-3.052853
+2111,973,albumin_level,normal
+2112,676,wbc_z_score,6.772309
+2113,447,wbc_z_score,2.764533
+2114,834,wbc_z_score,2.439663
+2115,612,crp,0.0015283 g/L
+2116,907,albumin_level,high
+2117,284,crp,0.6131 mg/L
+2118,14,wbc_z_score,4.100443
+2119,389,wbc_z_score,2.197143
+2120,275,crp,0.2202 mg/L
+2121,35,crp,0.0017789 g/L
+2122,774,albumin_level,NORMAL
+2123,419,crp,0.0007823 g/L
+2124,485,crp,1.8244 mg/L
+2125,854,wbc_z_score,3.890038
+2126,347,wbc_z_score,0.48509
+2127,163,crp,0.0018544 g/L
+2128,236,albumin_level,NORMAL
+2129,767,albumin_level,LOW
+2130,698,wbc_z_score,-0.455011
+2131,768,crp,1.6593 mg/L
+2132,797,wbc_z_score,-2.477907
+2133,959,wbc_z_score,4.1518
+2134,424,crp,1.4663 mg/L
+2135,247,albumin_level,LOW
+2136,35,wbc_z_score,5.383369
+2137,63,crp,0.0012652 g/L
+2138,474,crp,0.0005076 g/L
+2139,961,wbc_z_score,2.237831
+2140,136,albumin_level,normal
+2141,458,wbc_z_score,0.911511
+2142,526,wbc_z_score,0.89706
+2143,838,wbc_z_score,2.093732
+2144,417,wbc_z_score,3.522338
+2145,754,albumin_level,LOW
+2146,773,wbc_z_score,1.813049
+2147,127,albumin_level,normal
+2148,632,crp,0.9964 mg/L
+2149,365,wbc_z_score,-5.758308
+2150,692,wbc_z_score,0.065775
+2151,337,wbc_z_score,2.871871
+2152,682,wbc_z_score,0.688516
+2153,134,wbc_z_score,-2.5092
+2154,459,wbc_z_score,-0.58862
+2155,26,crp,0.0007401 g/L
+2156,447,crp,0.0005092 g/L
+2157,183,crp,0.0015026 g/L
+2158,264,albumin_level,LOW
+2159,21,crp,0.7444 mg/L
+2160,417,albumin_level,NORMAL
+2161,74,albumin_level,normal
+2162,21,wbc_z_score,1.992426
+2163,949,crp,0.0013162 g/L
+2164,133,crp,0.0005853 g/L
+2165,910,albumin_level,normal
+2166,105,albumin_level,NORMAL
+2167,536,crp,1.8828 mg/L
+2168,523,crp,1.7882 mg/L
+2169,622,crp,4.54e-05 g/L
+2170,166,crp,0.0005289 g/L
+2171,97,albumin_level,low
+2172,522,wbc_z_score,-0.520311
+2173,929,albumin_level,HIGH
+2174,392,wbc_z_score,2.60291
+2175,481,crp,0.4656 mg/L
+2176,761,albumin_level,high
+2177,963,albumin_level,veryhigh
+2178,553,albumin_level,NORMAL
+2179,611,albumin_level,HIGH
+2180,27,crp,0.0004073 g/L
+2181,534,albumin_level,NORMAL
+2182,121,albumin_level,NORMAL
+2183,411,wbc_z_score,0.296987
+2184,696,albumin_level,normal
+2185,925,crp,0.0016808 g/L
+2186,779,crp,0.0017498 g/L
+2187,155,wbc_z_score,-1.662566
+2188,80,wbc_z_score,4.203881
+2189,35,albumin_level,LOW
+2190,1000,crp,0.8513 mg/L
+2191,809,crp,1.9178 mg/L
+2192,845,crp,0.0018117 g/L
+2193,304,wbc_z_score,2.697466
+2194,734,crp,0.0004483 g/L
+2195,308,wbc_z_score,3.403897
+2196,164,albumin_level,normal
+2197,151,wbc_z_score,1.485037
+2198,65,albumin_level,NORMAL
+2199,126,wbc_z_score,-3.673837
+2200,544,crp,0.9414 mg/L
+2201,647,wbc_z_score,-0.134558
+2202,986,albumin_level,low
+2203,845,albumin_level,normal
+2204,357,wbc_z_score,2.704452
+2205,756,albumin_level,low
+2206,656,albumin_level,LOW
+2207,515,albumin_level,high
+2208,503,wbc_z_score,1.902953
+2209,450,wbc_z_score,1.19196
+2210,538,albumin_level,normal
+2211,955,crp,0.0013598 g/L
+2212,259,albumin_level,normal
+2213,228,wbc_z_score,1.834437
+2214,710,albumin_level,high
+2215,350,crp,0.1736 mg/L
+2216,321,albumin_level,low
+2217,526,crp,0.0796 mg/L
+2218,470,crp,0.001369 g/L
+2219,752,crp,0.5235 mg/L
+2220,692,albumin_level,low
+2221,814,crp,1.6769 mg/L
+2222,374,albumin_level,normal
+2223,887,crp,0.9854 mg/L
+2224,118,albumin_level,NORMAL
+2225,82,crp,0.0012621 g/L
+2226,792,albumin_level,normal
+2227,288,albumin_level,LOW
+2228,898,albumin_level,NORMAL
+2229,892,albumin_level,NORMAL
+2230,505,wbc_z_score,2.176854
+2231,843,crp,0.0002731 g/L
+2232,449,crp,0.0015155 g/L
+2233,940,wbc_z_score,-0.633184
+2234,393,crp,0.0010103 g/L
+2235,590,wbc_z_score,-2.088557
+2236,212,albumin_level,high
+2237,327,crp,1.2911 mg/L
+2238,464,crp,0.5098 mg/L
+2239,723,wbc_z_score,0.299065
+2240,343,wbc_z_score,1.348409
+2241,741,crp,0.7771 mg/L
+2242,205,albumin_level,LOW
+2243,577,crp,0.000589 g/L
+2244,466,crp,0.1538 mg/L
+2245,345,albumin_level,normal
+2246,552,albumin_level,low
+2247,443,albumin_level,NORMAL
+2248,142,wbc_z_score,-4.5283
+2249,846,crp,0.6437 mg/L
+2250,512,crp,0.0375 mg/L
+2251,308,crp,3.33e-05 g/L
+2252,283,crp,0.1013 mg/L
+2253,915,crp,1.0661 mg/L
+2254,152,crp,1.4453 mg/L
+2255,615,crp,1.6668 mg/L
+2256,96,albumin_level,low
+2257,208,albumin_level,normal
+2258,476,crp,1.5518 mg/L
+2259,441,wbc_z_score,3.706489
+2260,883,albumin_level,high
+2261,213,crp,1.221 mg/L
+2262,298,crp,0.7602 mg/L
+2263,964,albumin_level,normal
+2264,432,albumin_level,HIGH
+2265,51,wbc_z_score,2.430558
+2266,415,wbc_z_score,4.47288
+2267,532,crp,0.0004208 g/L
+2268,797,crp,0.4099 mg/L
+2269,726,crp,0.0008778 g/L
+2270,20,wbc_z_score,3.046547
+2271,845,wbc_z_score,5.137406
+2272,737,albumin_level,low
+2273,981,albumin_level,HIGH
+2274,536,albumin_level,LOW
+2275,341,albumin_level,normal
+2276,173,crp,9.56e-05 g/L
+2277,859,crp,0.0016304 g/L
+2278,813,wbc_z_score,0.214804
+2279,122,albumin_level,normal
+2280,332,crp,0.0003607 g/L
+2281,20,albumin_level,veryhigh
+2282,491,wbc_z_score,3.335242
+2283,23,crp,0.0014445 g/L
+2284,111,crp,0.0003024 g/L
+2285,531,wbc_z_score,-2.198585
+2286,560,crp,0.5776 mg/L
+2287,897,crp,0.79 mg/L
+2288,913,crp,0.5478 mg/L
+2289,48,crp,0.0015831 g/L
+2290,956,crp,0.2413 mg/L
+2291,670,albumin_level,normal
+2292,169,wbc_z_score,0.27935
+2293,817,albumin_level,NORMAL
+2294,997,wbc_z_score,0.236736
+2295,129,wbc_z_score,2.994976
+2296,247,wbc_z_score,1.117419
+2297,216,albumin_level,LOW
+2298,580,wbc_z_score,0.838478
+2299,883,wbc_z_score,5.25745
+2300,856,albumin_level,NORMAL
+2301,135,wbc_z_score,1.673017
+2302,990,crp,0.0007324 g/L
+2303,130,crp,0.0005527 g/L
+2304,810,crp,0.0018113 g/L
+2305,993,wbc_z_score,0.303207
+2306,634,wbc_z_score,1.433883
+2307,799,albumin_level,normal
+2308,660,albumin_level,NORMAL
+2309,546,crp,0.4224 mg/L
+2310,530,crp,0.0007902 g/L
+2311,323,crp,0.0008795 g/L
+2312,467,crp,0.0003956 g/L
+2313,574,wbc_z_score,7.443383
+2314,402,crp,0.0016268 g/L
+2315,462,crp,0.3383 mg/L
+2316,905,wbc_z_score,0.874213
+2317,320,crp,0.0020661 g/L
+2318,838,crp,0.0013821 g/L
+2319,287,crp,0.0837 mg/L
+2320,536,wbc_z_score,3.359988
+2321,799,crp,0.9323 mg/L
+2322,643,crp,0.8352 mg/L
+2323,779,albumin_level,LOW
+2324,153,crp,0.4391 mg/L
+2325,955,wbc_z_score,2.933094
+2326,854,albumin_level,low
+2327,796,crp,0.4956 mg/L
+2328,215,crp,0.0349 mg/L
+2329,909,crp,0.0019826 g/L
+2330,642,crp,0.1745 mg/L
+2331,898,crp,0.0006524 g/L
+2332,512,wbc_z_score,4.435322
+2333,582,albumin_level,HIGH
+2334,917,wbc_z_score,1.522387
+2335,447,albumin_level,high
+2336,790,wbc_z_score,5.608202
+2337,671,crp,9.55e-05 g/L
+2338,729,wbc_z_score,4.042859
+2339,892,wbc_z_score,6.183184
+2340,478,albumin_level,NORMAL
+2341,654,crp,3.28e-05 g/L
+2342,372,wbc_z_score,-0.296887
+2343,331,crp,0.2591 mg/L
+2344,992,wbc_z_score,-1.809565
+2345,89,albumin_level,normal
+2346,339,wbc_z_score,-0.165971
+2347,256,albumin_level,LOW
+2348,980,albumin_level,normal
+2349,684,albumin_level,normal
+2350,277,crp,0.0006357 g/L
+2351,878,albumin_level,low
+2352,319,crp,0.0005704 g/L
+2353,720,wbc_z_score,-4.460221
+2354,710,crp,0.0004729 g/L
+2355,146,crp,0.6204 mg/L
+2356,996,wbc_z_score,-0.010537
+2357,25,crp,0.066 mg/L
+2358,397,wbc_z_score,-3.008968
+2359,76,crp,0.0002064 g/L
+2360,795,crp,2.0715 mg/L
+2361,634,albumin_level,normal
+2362,507,crp,0.0017791 g/L
+2363,295,crp,0.3226 mg/L
+2364,617,wbc_z_score,-2.049382
+2365,204,wbc_z_score,-1.707583
+2366,913,albumin_level,low
+2367,841,crp,1.5992 mg/L
+2368,592,albumin_level,low
+2369,432,wbc_z_score,-2.068428
+2370,638,crp,0.0001708 g/L
+2371,558,crp,0.0013278 g/L
+2372,358,crp,0.0014601 g/L
+2373,260,wbc_z_score,2.476878
+2374,151,albumin_level,normal
+2375,187,crp,0.5111 mg/L
+2376,575,albumin_level,normal
+2377,254,albumin_level,normal
+2378,757,albumin_level,normal
+2379,711,crp,0.0017195 g/L
+2380,943,crp,0.0008436 g/L
+2381,963,crp,1.7494 mg/L
+2382,429,wbc_z_score,4.153679
+2383,624,wbc_z_score,5.621659
+2384,480,wbc_z_score,-1.276862
+2385,883,crp,0.0010732 g/L
+2386,112,albumin_level,low
+2387,635,albumin_level,low
+2388,543,wbc_z_score,0.748589
+2389,653,wbc_z_score,-4.903837
+2390,728,albumin_level,NORMAL
+2391,161,albumin_level,normal
+2392,583,wbc_z_score,-1.335682
+2393,72,wbc_z_score,0.888878
+2394,325,albumin_level,HIGH
+2395,689,wbc_z_score,-2.545151
+2396,812,crp,0.0013219 g/L
+2397,941,wbc_z_score,1.602233
+2398,384,albumin_level,normal
+2399,842,albumin_level,low
+2400,91,wbc_z_score,-2.583473
+2401,230,albumin_level,normal
+2402,751,wbc_z_score,3.613678
+2403,567,crp,0.0019204 g/L
+2404,12,albumin_level,normal
+2405,356,wbc_z_score,1.258609
+2406,832,albumin_level,HIGH
+2407,570,albumin_level,NORMAL
+2408,19,albumin_level,normal
+2409,483,crp,0.0888 mg/L
+2410,111,albumin_level,normal
+2411,584,albumin_level,normal
+2412,413,albumin_level,normal
+2413,616,albumin_level,LOW
+2414,676,crp,0.0001278 g/L
+2415,382,albumin_level,HIGH
+2416,322,wbc_z_score,-2.474345
+2417,311,wbc_z_score,2.807482
+2418,215,albumin_level,HIGH
+2419,570,wbc_z_score,2.518105
+2420,451,wbc_z_score,1.006758
+2421,242,wbc_z_score,4.084448
+2422,464,wbc_z_score,-4.993032
+2423,73,crp,1.5598 mg/L
+2424,544,wbc_z_score,7.592254
+2425,855,wbc_z_score,0.711976
+2426,218,albumin_level,LOW
+2427,361,crp,0.5031 mg/L
+2428,549,crp,1.4064 mg/L
+2429,722,crp,0.6575 mg/L
+2430,922,wbc_z_score,1.954966
+2431,197,albumin_level,normal
+2432,725,albumin_level,high
+2433,232,crp,0.0015989 g/L
+2434,311,albumin_level,high
+2435,549,albumin_level,normal
+2436,557,crp,0.0016443 g/L
+2437,995,albumin_level,normal
+2438,699,crp,0.0003796 g/L
+2439,581,wbc_z_score,-1.191047
+2440,360,crp,0.0016667 g/L
+2441,89,crp,0.0020217 g/L
+2442,695,wbc_z_score,-0.095976
+2443,620,albumin_level,normal
+2444,866,crp,0.0015813 g/L
+2445,295,albumin_level,high
+2446,613,albumin_level,HIGH
+2447,873,crp,0.0003232 g/L
+2448,724,wbc_z_score,-0.069223
+2449,868,albumin_level,normal
+2450,559,albumin_level,NORMAL
+2451,621,albumin_level,NORMAL
+2452,771,wbc_z_score,-1.474101
+2453,156,crp,0.0001374 g/L
+2454,167,crp,1.7827 mg/L
+2455,776,albumin_level,low
+2456,889,albumin_level,low
+2457,95,crp,0.0013857 g/L
+2458,585,albumin_level,HIGH
+2459,750,albumin_level,NORMAL
+2460,150,albumin_level,NORMAL
+2461,673,albumin_level,NORMAL
+2462,98,crp,0.0003727 g/L
+2463,695,albumin_level,LOW
+2464,223,crp,0.5345 mg/L
+2465,518,crp,0.0005571 g/L
+2466,514,wbc_z_score,0.237123
+2467,316,wbc_z_score,4.07652
+2468,250,wbc_z_score,-3.553895
+2469,829,wbc_z_score,-0.004967
+2470,983,albumin_level,HIGH
+2471,562,albumin_level,low
+2472,75,wbc_z_score,3.118957
+2473,706,albumin_level,high
+2474,902,wbc_z_score,4.973715
+2475,698,crp,0.2038 mg/L
+2476,123,albumin_level,normal
+2477,577,albumin_level,normal
+2478,953,albumin_level,LOW
+2479,346,wbc_z_score,3.103076
+2480,159,albumin_level,NORMAL
+2481,412,wbc_z_score,4.34515
+2482,268,wbc_z_score,-1.181354
+2483,305,albumin_level,low
+2484,82,wbc_z_score,1.286458
+2485,42,albumin_level,high
+2486,109,wbc_z_score,0.394641
+2487,33,wbc_z_score,0.079017
+2488,956,albumin_level,LOW
+2489,701,crp,0.0011871 g/L
+2490,603,wbc_z_score,3.087349
+2491,622,wbc_z_score,-0.592139
+2492,801,crp,0.0015753 g/L
+2493,426,albumin_level,normal
+2494,572,albumin_level,normal
+2495,3,crp,0.0009944 g/L
+2496,342,wbc_z_score,1.616672
+2497,331,albumin_level,normal
+2498,488,wbc_z_score,2.824713
+2499,641,crp,0.0011863 g/L
+2500,661,albumin_level,NORMAL
+2501,463,albumin_level,normal
+2502,674,wbc_z_score,-1.272878
+2503,759,albumin_level,normal
+2504,880,wbc_z_score,1.972693
+2505,280,crp,0.3052 mg/L
+2506,213,wbc_z_score,2.343936
+2507,978,wbc_z_score,2.952002
+2508,917,crp,0.0005958 g/L
+2509,972,albumin_level,normal
+2510,218,crp,0.0005714 g/L
+2511,626,wbc_z_score,5.576506
+2512,4,crp,0.5493 mg/L
+2513,743,crp,0.4133 mg/L
+2514,789,albumin_level,low
+2515,955,albumin_level,NORMAL
+2516,801,albumin_level,normal
+2517,449,wbc_z_score,2.651833
+2518,766,albumin_level,NORMAL
+2519,267,albumin_level,NORMAL
+2520,954,wbc_z_score,0.905672
+2521,340,albumin_level,high
+2522,124,crp,0.0016507 g/L
+2523,148,albumin_level,HIGH
+2524,804,albumin_level,low
+2525,24,wbc_z_score,3.046571
+2526,985,crp,1.7313 mg/L
+2527,191,albumin_level,normal
+2528,515,crp,0.0615 mg/L
+2529,194,wbc_z_score,4.453059
+2530,278,wbc_z_score,-4.162756
+2531,93,crp,0.8386 mg/L
+2532,849,wbc_z_score,2.583467
+2533,157,albumin_level,normal
+2534,603,albumin_level,NORMAL
+2535,264,wbc_z_score,4.870403
+2536,192,albumin_level,normal
+2537,686,crp,7.1e-05 g/L
+2538,346,crp,0.0012553 g/L
+2539,103,albumin_level,low
+2540,528,crp,0.0008858 g/L
+2541,632,albumin_level,high
+2542,699,albumin_level,high
+2543,36,crp,0.0006747 g/L
+2544,319,wbc_z_score,1.322773
+2545,106,wbc_z_score,5.165806
+2546,584,crp,0.739 mg/L
+2547,174,crp,0.2715 mg/L
+2548,210,albumin_level,low
+2549,880,albumin_level,normal
+2550,863,crp,0.4125 mg/L
+2551,128,albumin_level,LOW
+2552,21,albumin_level,normal
+2553,300,crp,0.0006496 g/L
+2554,554,crp,0.3405 mg/L
+2555,508,albumin_level,NORMAL
+2556,555,albumin_level,high
+2557,685,crp,1.1906 mg/L
+2558,772,wbc_z_score,4.458382
+2559,640,wbc_z_score,2.330676
+2560,476,wbc_z_score,3.372131
+2561,581,albumin_level,normal
+2562,387,wbc_z_score,3.223106
+2563,450,albumin_level,NORMAL
+2564,201,crp,0.0004349 g/L
+2565,576,crp,0.0007814 g/L
+2566,158,wbc_z_score,3.62633
+2567,753,crp,0.0019214 g/L
+2568,962,albumin_level,HIGH
+2569,625,crp,1.1999 mg/L
+2570,847,albumin_level,normal
+2571,226,wbc_z_score,1.463486
+2572,787,crp,0.7312 mg/L
+2573,702,wbc_z_score,0.874983
+2574,841,wbc_z_score,3.546466
+2575,516,crp,1.295 mg/L
+2576,421,wbc_z_score,1.822008
+2577,208,wbc_z_score,1.75205
+2578,15,crp,1.3204 mg/L
+2579,616,crp,0.7677 mg/L
+2580,136,wbc_z_score,2.113396
+2581,851,albumin_level,low
+2582,237,wbc_z_score,-5.179992
+2583,788,wbc_z_score,2.459885
+2584,830,crp,1.5258 mg/L
+2585,727,albumin_level,normal
+2586,223,albumin_level,HIGH
+2587,177,albumin_level,HIGH
+2588,262,crp,0.0014783 g/L
+2589,319,albumin_level,NORMAL
+2590,940,crp,0.434 mg/L
+2591,69,crp,1.6017 mg/L
+2592,479,crp,0.0015682 g/L
+2593,844,wbc_z_score,5.663531
+2594,91,crp,0.0018957 g/L
+2595,484,crp,0.0017597 g/L
+2596,85,wbc_z_score,4.079801
+2597,154,crp,0.001467 g/L
+2598,869,albumin_level,LOW
+2599,608,crp,0.5722 mg/L
+2600,767,crp,0.000562 g/L
+2601,532,wbc_z_score,1.091061
+2602,614,albumin_level,normal
+2603,968,wbc_z_score,3.864394
+2604,352,crp,1.1146 mg/L
+2605,40,wbc_z_score,3.717725
+2606,901,wbc_z_score,1.553518
+2607,830,albumin_level,LOW
+2608,705,albumin_level,NORMAL
+2609,959,crp,1.6705 mg/L
+2610,235,wbc_z_score,0.285526
+2611,821,wbc_z_score,3.009302
+2612,992,crp,1.6234 mg/L
+2613,292,crp,0.0008051 g/L
+2614,736,albumin_level,HIGH
+2615,610,wbc_z_score,0.785723
+2616,358,wbc_z_score,-1.23374
+2617,551,crp,0.000198 g/L
+2618,285,wbc_z_score,0.50683
+2619,731,crp,0.0014495 g/L
+2620,516,wbc_z_score,-1.568322
+2621,395,wbc_z_score,-0.186772
+2622,480,albumin_level,normal
+2623,198,albumin_level,NORMAL
+2624,429,crp,0.6405 mg/L
+2625,733,albumin_level,normal
+2626,17,crp,1.73 mg/L
+2627,307,crp,4.93e-05 g/L
+2628,984,crp,0.0007887 g/L
+2629,475,crp,0.8463 mg/L
+2630,186,wbc_z_score,2.574935
+2631,975,albumin_level,normal
+2632,595,crp,1.6079 mg/L
+2633,619,albumin_level,normal
+2634,81,crp,1.2118 mg/L
+2635,222,albumin_level,LOW
+2636,718,albumin_level,high
+2637,277,albumin_level,verylow
+2638,798,crp,0.0013935 g/L
+2639,382,wbc_z_score,3.19278
+2640,991,wbc_z_score,1.672151
+2641,288,crp,0.2262 mg/L
+2642,405,albumin_level,NORMAL
+2643,485,albumin_level,verylow
+2644,354,albumin_level,LOW
+2645,73,albumin_level,LOW
+2646,138,crp,1.2333 mg/L
+2647,828,albumin_level,NORMAL
+2648,716,crp,0.0014907 g/L
+2649,790,crp,0.4773 mg/L
+2650,878,crp,1.107 mg/L
+2651,245,wbc_z_score,2.801459
+2652,994,wbc_z_score,0.587131
+2653,57,wbc_z_score,4.925294
+2654,175,wbc_z_score,-4.592895
+2655,67,wbc_z_score,0.955139
+2656,518,albumin_level,normal
+2657,600,crp,0.0012166 g/L
+2658,302,crp,1.0167 mg/L
+2659,28,albumin_level,HIGH
+2660,448,albumin_level,HIGH
+2661,26,albumin_level,NORMAL
+2662,16,wbc_z_score,1.026236
+2663,870,albumin_level,HIGH
+2664,418,albumin_level,normal
+2665,2,albumin_level,low
+2666,607,crp,0.2602 mg/L
+2667,199,wbc_z_score,4.956269
+2668,178,albumin_level,NORMAL
+2669,354,crp,0.2036 mg/L
+2670,206,albumin_level,NORMAL
+2671,297,wbc_z_score,3.212352
+2672,333,albumin_level,high
+2673,410,wbc_z_score,0.543561
+2674,8,crp,1.51e-05 g/L
+2675,616,wbc_z_score,-1.35574
+2676,265,wbc_z_score,3.874539
+2677,327,wbc_z_score,2.108181
+2678,253,wbc_z_score,4.370287
+2679,597,crp,0.3915 mg/L
+2680,296,crp,0.8373 mg/L
+2681,658,wbc_z_score,-0.290242
+2682,630,crp,0.2278 mg/L
+2683,174,albumin_level,low
+2684,720,crp,0.4077 mg/L
+2685,225,wbc_z_score,0.045353
+2686,991,albumin_level,normal
+2687,379,wbc_z_score,0.534264
+2688,500,wbc_z_score,3.147319
+2689,90,crp,1.7983 mg/L
+2690,864,albumin_level,NORMAL
+2691,793,crp,0.0013123 g/L
+2692,546,wbc_z_score,1.883626
+2693,808,wbc_z_score,3.147819
+2694,772,albumin_level,high
+2695,557,albumin_level,NORMAL
+2696,514,crp,0.0003788 g/L
+2697,505,albumin_level,NORMAL
+2698,330,wbc_z_score,1.481462
+2699,941,albumin_level,high
+2700,251,wbc_z_score,2.520149
+2701,379,crp,0.716 mg/L
+2702,413,crp,0.0003726 g/L
+2703,738,crp,0.3193 mg/L
+2704,730,crp,1.031 mg/L
+2705,81,wbc_z_score,1.450437
+2706,1,albumin_level,normal
+2707,645,crp,0.2739 mg/L
+2708,591,wbc_z_score,0.383959
+2709,972,crp,0.001379 g/L
+2710,320,wbc_z_score,0.002154
+2711,587,albumin_level,NORMAL
+2712,852,crp,0.0015678 g/L
+2713,160,wbc_z_score,2.345961
+2714,597,wbc_z_score,2.598996
+2715,649,wbc_z_score,3.391851
+2716,821,crp,1.7613 mg/L
+2717,934,crp,0.0011108 g/L
+2718,704,albumin_level,high
+2719,911,wbc_z_score,5.145646
+2720,446,crp,0.0007991 g/L
+2721,782,crp,1.6133 mg/L
+2722,709,albumin_level,high
+2723,732,crp,0.0006134 g/L
+2724,13,albumin_level,normal
+2725,138,wbc_z_score,3.682597
+2726,261,crp,0.0018087 g/L
+2727,445,crp,0.0015975 g/L
+2728,909,albumin_level,normal
+2729,939,wbc_z_score,-4.957694
+2730,160,albumin_level,NORMAL
+2731,586,crp,1.7907 mg/L
+2732,326,wbc_z_score,1.615598
+2733,482,albumin_level,normal
+2734,46,wbc_z_score,1.314092
+2735,375,albumin_level,high
+2736,822,albumin_level,normal
+2737,778,crp,1.7035 mg/L
+2738,695,crp,0.0003796 g/L
+2739,769,albumin_level,normal
+2740,938,wbc_z_score,3.120561
+2741,622,albumin_level,normal
+2742,914,wbc_z_score,-0.69894
+2743,52,crp,0.0005016 g/L
+2744,659,crp,0.00093 g/L
+2745,697,wbc_z_score,2.345223
+2746,317,crp,0.0012634 g/L
+2747,684,wbc_z_score,3.845936
+2748,981,crp,1.3627 mg/L
+2749,791,wbc_z_score,2.230601
+2750,782,albumin_level,NORMAL
+2751,473,albumin_level,low
+2752,70,crp,1.1063 mg/L
+2753,957,wbc_z_score,4.719371
+2754,918,crp,0.0014587 g/L
+2755,242,crp,0.0020013 g/L
+2756,905,albumin_level,low
+2757,743,wbc_z_score,3.597749
+2758,988,wbc_z_score,1.015665
+2759,183,wbc_z_score,1.321658
+2760,39,wbc_z_score,-3.702428
+2761,334,wbc_z_score,-2.055235
+2762,881,crp,0.0253 mg/L
+2763,960,wbc_z_score,-1.186252
+2764,865,albumin_level,normal
+2765,229,wbc_z_score,0.777176
+2766,227,wbc_z_score,4.252807
+2767,754,crp,0.0005439 g/L
+2768,859,wbc_z_score,2.991955
+2769,286,crp,6.54e-05 g/L
+2770,517,albumin_level,NORMAL
+2771,172,crp,0.5061 mg/L
+2772,123,wbc_z_score,5.44248
+2773,38,albumin_level,HIGH
+2774,776,crp,0.0019278 g/L
+2775,601,albumin_level,NORMAL
+2776,605,wbc_z_score,0.931272
+2777,594,crp,0.3854 mg/L
+2778,275,albumin_level,normal
+2779,965,crp,1.2241 mg/L
+2780,55,crp,0.0013814 g/L
+2781,266,wbc_z_score,6.341774
+2782,176,wbc_z_score,1.252777
+2783,972,wbc_z_score,4.819778
+2784,323,wbc_z_score,-2.533738
+2785,701,albumin_level,normal
+2786,480,crp,0.000195 g/L
+2787,534,crp,0.4542 mg/L
+2788,765,albumin_level,normal
+2789,894,albumin_level,HIGH
+2790,891,wbc_z_score,0.334096
+2791,804,crp,1.3751 mg/L
+2792,355,wbc_z_score,4.565947
+2793,703,wbc_z_score,4.264189
+2794,94,crp,1.6488 mg/L
+2795,916,albumin_level,normal
+2796,101,crp,0.001954 g/L
+2797,827,albumin_level,LOW
+2798,573,albumin_level,HIGH
+2799,494,crp,0.0383 mg/L
+2800,606,albumin_level,HIGH
+2801,219,albumin_level,normal
+2802,329,albumin_level,NORMAL
+2803,926,wbc_z_score,6.309373
+2804,315,wbc_z_score,-1.82374
+2805,862,crp,0.3874 mg/L
+2806,880,crp,0.0006078 g/L
+2807,540,crp,0.0022019 g/L
+2808,973,wbc_z_score,3.505547
+2809,41,albumin_level,NORMAL
+2810,771,crp,0.5166 mg/L
+2811,734,albumin_level,normal
+2812,361,albumin_level,NORMAL
+2813,489,albumin_level,low
+2814,777,wbc_z_score,2.314033
+2815,487,wbc_z_score,2.56563
+2816,661,wbc_z_score,3.43239
+2817,927,wbc_z_score,2.613631
+2818,876,crp,0.0010783 g/L
+2819,645,albumin_level,NORMAL
+2820,565,wbc_z_score,-0.712277
+2821,872,albumin_level,normal
+2822,485,wbc_z_score,2.044064
+2823,224,albumin_level,HIGH
+2824,591,crp,1.3781 mg/L
+2825,203,wbc_z_score,2.204325
+2826,29,wbc_z_score,2.178903
+2827,452,albumin_level,normal
+2828,340,wbc_z_score,5.251153
+2829,252,wbc_z_score,0.159455
+2830,141,wbc_z_score,5.14244
+2831,996,albumin_level,normal
+2832,964,crp,0.6464 mg/L
+2833,735,crp,1.7191 mg/L
+2834,148,wbc_z_score,1.390255
+2835,435,crp,1.4967 mg/L
+2836,126,albumin_level,low
+2837,919,wbc_z_score,-1.270259
+2838,235,albumin_level,normal
+2839,499,albumin_level,high
+2840,576,albumin_level,NORMAL
+2841,113,albumin_level,normal
+2842,440,wbc_z_score,-2.521448
+2843,80,crp,2.2237 mg/L
+2844,465,crp,0.7252 mg/L
+2845,226,albumin_level,normal
+2846,213,albumin_level,normal
+2847,231,wbc_z_score,5.503936
+2848,919,crp,0.2129 mg/L
+2849,694,wbc_z_score,0.882452
+2850,384,crp,1.4358 mg/L
+2851,837,wbc_z_score,1.142939
+2852,599,albumin_level,HIGH
+2853,166,albumin_level,NORMAL
+2854,688,crp,7.02e-05 g/L
+2855,101,wbc_z_score,2.632486
+2856,889,wbc_z_score,-3.840432
+2857,822,wbc_z_score,1.96189
+2858,602,albumin_level,NORMAL
+2859,585,wbc_z_score,4.5673
+2860,307,albumin_level,normal
+2861,662,crp,0.0013202 g/L
+2862,786,crp,0.0001529 g/L
+2863,969,crp,1.9801 mg/L
+2864,523,albumin_level,normal
+2865,108,crp,0.0008894 g/L
+2866,519,albumin_level,NORMAL
+2867,143,wbc_z_score,2.932069
+2868,188,albumin_level,normal
+2869,430,wbc_z_score,0.226635
+2870,679,crp,0.0015295 g/L
+2871,683,crp,1.5853 mg/L
+2872,750,wbc_z_score,0.772289
+2873,784,crp,0.0015477 g/L
+2874,205,crp,0.663 mg/L
+2875,210,wbc_z_score,2.816157
+2876,738,wbc_z_score,-0.176062
+2877,410,crp,0.2303 mg/L
+2878,931,crp,1.2559 mg/L
+2879,503,crp,0.5814 mg/L
+2880,79,albumin_level,normal
+2881,875,crp,0.0015395 g/L
+2882,681,wbc_z_score,-1.66232
+2883,950,crp,0.0012532 g/L
+2884,375,crp,0.3646 mg/L
+2885,456,crp,1.3891 mg/L
+2886,66,albumin_level,NORMAL
+2887,81,albumin_level,high
+2888,504,wbc_z_score,3.511153
+2889,875,albumin_level,low
+2890,153,wbc_z_score,-2.046927
+2891,681,crp,0.5202 mg/L
+2892,805,crp,0.417 mg/L
+2893,571,crp,0.0017591 g/L
+2894,443,wbc_z_score,6.721458
+2895,145,albumin_level,NORMAL
+2896,84,crp,0.0005754 g/L
+2897,312,crp,0.2616 mg/L
+2898,374,crp,0.0299 mg/L
+2899,892,crp,0.0653 mg/L
+2900,66,crp,0.7461 mg/L
+2901,670,crp,1.5568 mg/L
+2902,74,crp,1.4848 mg/L
+2903,826,albumin_level,NORMAL
+2904,27,albumin_level,normal
+2905,915,wbc_z_score,4.007435
+2906,172,wbc_z_score,3.587538
+2907,356,albumin_level,normal
+2908,527,wbc_z_score,4.478244
+2909,794,albumin_level,LOW
+2910,267,crp,0.0005951 g/L
+2911,871,crp,0.3332 mg/L
+2912,167,albumin_level,NORMAL
+2913,726,albumin_level,NORMAL
+2914,320,albumin_level,normal
+2915,701,wbc_z_score,0.499376
+2916,300,wbc_z_score,1.753342
+2917,105,wbc_z_score,-0.030352
+2918,989,crp,0.0013467 g/L
+2919,855,albumin_level,HIGH
+2920,703,crp,0.0017032 g/L
+2921,910,crp,0.0013315 g/L
+2922,857,crp,0.6603 mg/L
+2923,261,albumin_level,normal
+2924,563,albumin_level,NORMAL
+2925,176,crp,1.4866 mg/L
+2926,591,albumin_level,normal
+2927,352,albumin_level,HIGH
+2928,289,wbc_z_score,-5.443429
+2929,365,crp,1.7318 mg/L
+2930,664,wbc_z_score,0.712155
+2931,285,crp,1.3363 mg/L
+2932,934,albumin_level,low
+2933,23,albumin_level,high
+2934,482,crp,0.0005926 g/L
+2935,263,albumin_level,NORMAL
+2936,80,albumin_level,NORMAL
+2937,504,crp,1.2596 mg/L
+2938,446,wbc_z_score,-0.080255
+2939,749,albumin_level,low
+2940,714,albumin_level,normal
+2941,225,albumin_level,high
+2942,537,crp,0.0018975 g/L
+2943,197,wbc_z_score,2.416777
+2944,115,wbc_z_score,2.077653
+2945,270,crp,0.0016349 g/L
+2946,109,crp,0.0023089 g/L
+2947,805,albumin_level,NORMAL
+2948,348,crp,1.1844 mg/L
+2949,244,albumin_level,normal
+2950,617,albumin_level,normal
+2951,118,wbc_z_score,1.377029
+2952,434,wbc_z_score,3.697268
+2953,856,wbc_z_score,7.186223
+2954,950,wbc_z_score,0.248803
+2955,30,crp,1.7054 mg/L
+2956,162,crp,0.2678 mg/L
+2957,314,wbc_z_score,-0.835793
+2958,649,crp,0.0007262 g/L
+2959,637,albumin_level,normal
+2960,770,crp,0.0009194 g/L
+2961,68,crp,0.5837 mg/L
+2962,977,albumin_level,HIGH
+2963,184,wbc_z_score,2.989937
+2964,439,albumin_level,LOW
+2965,627,wbc_z_score,1.959394
+2966,264,crp,1.9657 mg/L
+2967,304,albumin_level,NORMAL
+2968,78,albumin_level,LOW
+2969,306,wbc_z_score,3.391729
+2970,132,albumin_level,normal
+2971,286,albumin_level,NORMAL
+2972,473,wbc_z_score,3.906605
+2973,165,crp,0.0005492 g/L
+2974,979,albumin_level,high
+2975,912,albumin_level,NORMAL
+2976,444,crp,0.347 mg/L
+2977,525,albumin_level,normal
+2978,210,crp,0.6138 mg/L
+2979,517,crp,1.6103 mg/L
+2980,642,wbc_z_score,3.933586
+2981,218,wbc_z_score,3.716228
+2982,289,crp,0.0005659 g/L
+2983,457,crp,0.0017918 g/L
+2984,468,albumin_level,LOW
+2985,864,wbc_z_score,0.433332
+2986,292,wbc_z_score,-2.678684
+2987,506,crp,0.0006417 g/L
+2988,988,albumin_level,normal
+2989,961,crp,1.6441 mg/L
+2990,578,crp,0.001749 g/L
+2991,203,crp,0.0003823 g/L
+2992,699,wbc_z_score,0.724928
+2993,299,crp,0.0003031 g/L
+2994,438,crp,0.0003226 g/L
+2995,402,albumin_level,HIGH
+2996,675,crp,0.000563 g/L
+2997,603,crp,0.0009156 g/L
+2998,486,crp,1.3106 mg/L
+2999,454,crp,0.0015934 g/L

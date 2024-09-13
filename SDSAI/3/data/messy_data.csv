@@ -1,0 +1,11 @@
+PatientID,Name,Age,Weight,Height,BloodPressure,Temp,Diagnosis,Gender,BloodGlucose,BGMethod,AppointmentDate
+101,John,45,180 lbs,6'2",120/80,98.6 F,Hypertension,M,101,Fasted,2024-09-15
+102,Jane,,70kg,165 cm,130/85,36.5 C,Diabetes,Female,172,Fasted,15th Sep 2024
+103,Mike,53,250 lbs,72 in,140/90,100 F,Hypertension,M,62,Fasted,2024-09-14
+104,Anna,401,50.5 kgs,5'4",,37 C,Asthma,F,120,Random,09/16/2024
+105,Emily,60,130,160cm,,,None,Female,134,Random,2024-09-13
+106,Chris,-12,80kg,,120/75,99.1 F,Asthma,Male,156,Fasted,2024-09-12
+107,Sarah,40,165.3,5.5 ft,115/75,,Hypertension,F,92,Random,September 14 2024
+108,Bob,67,200 lbs,,,,Heart Disease,Male,73,Random,2024/09/15
+109,Laura,32,140 lbs,1.70m,120/80,99F,Hypertension,Female,54,Random,2024-09-14
+110,David,75,90kg,180 cm,110/70,37.5C,None,M,86,Fasted,9/15/24

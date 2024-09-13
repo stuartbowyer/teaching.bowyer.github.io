@@ -1,0 +1,92 @@
+{% set reveal_width = '1400' %}
+
+{%- extends 'reveal/index.html.j2' -%}
+
+{% set reveal_width = '1400' %}
+
+{% block notebook_css %}
+{{ resources.include_css("static/custom_sdsai.css") }}
+{{ super() }}
+{% endblock notebook_css %}
+
+{% block body_footer %}
+</div>
+</div>
+<footer>
+  <div class="column"><strong>Imperial College London</strong></div>
+  <div class="column">
+    Stuart Bowyer >
+    SURG70098 - Surgical Data Science & AI >
+    {{ resources['metadata']['name']|replace("_", " ") }}
+  </div>
+  <div class="column" style="font-size: x-small;">
+    {{ resources['metadata']['version_string'] }}
+  </div>
+  <div class="column">
+  <a href="https://colab.research.google.com/github/stuartbowyer/teaching.bowyer.github.io/blob/main/{{ resources['metadata']['path'] | replace("../", "") }}/{{ resources['metadata']['name'] }}.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+  </div>
+</footer>
+</main>
+</body>
+{% endblock body_footer %}
+
+{% block footer_js %}
+{% set reveal_width = 1400 %} 
+{% set reveal_height = 800 %}
+{# THE FOLLOWING IS COPIED FROM THE REVEAL TEMPLATE - I CAN'T GET THE ABOVE VALUES TO SET PROPERLY USING super() #} 
+<script>
+require(
+    {
+      // it makes sense to wait a little bit when you are loading
+      // reveal from a cdn in a slow connection environment
+      waitSeconds: 15
+    },
+    [
+      "{{ reveal_url_prefix }}/dist/reveal.js",
+      "{{ reveal_url_prefix }}/plugin/notes/notes.js"
+    ],
+
+    function(Reveal, RevealNotes){
+
+        // Full list of configuration options available here: https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            transition: "{{reveal_transition}}",
+            slideNumber: "{{reveal_number}}",
+            plugins: [RevealNotes],
+            width: {{reveal_width}},
+			height: {{reveal_height}},
+
+        });
+
+        var update = function(event){
+          if(MathJax.Hub.getAllJax(Reveal.getCurrentSlide())){
+            MathJax.Hub.Rerender(Reveal.getCurrentSlide());
+          }
+        };
+
+        Reveal.addEventListener('slidechanged', update);
+
+        function setScrollingSlide() {
+            var scroll = {{ reveal_scroll }}
+            if (scroll === true) {
+              var h = $('.reveal').height() * 0.95;
+              $('section.present').find('section')
+                .filter(function() {
+                  return $(this).height() > h;
+                })
+                .css('height', 'calc(95vh)')
+                .css('overflow-y', 'scroll')
+                .css('margin-top', '20px');
+            }
+        }
+
+        // check and set the scrolling slide every time the slide change
+        Reveal.addEventListener('slidechanged', setScrollingSlide);
+    }
+);
+</script>
+{% endblock footer_js %}
