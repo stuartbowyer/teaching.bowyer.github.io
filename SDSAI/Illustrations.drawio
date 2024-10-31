@@ -22,7 +22,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f5J6hiO3RBsWKXF9eYgv" name="SDSAI-03_Data-Modelling">
-    <mxGraphModel dx="844" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="492" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SDSAI-03_Model-Overfitting" id="-cVBLLGGtDF534bVMCU-">
-    <mxGraphModel dx="793" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vPQkce_zPqkesdZt8sZu-0" />
         <mxCell id="vPQkce_zPqkesdZt8sZu-1" parent="vPQkce_zPqkesdZt8sZu-0" />
