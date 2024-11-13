@@ -11,4 +11,5 @@
 # 3 / ML Foundations and Data Prep
 *   Too much material
 *   Data standardisation/normalisation is hard to justify without having seen how a basic model works
+*   In exercise 3.1 - clarify what is meant by variation/variability
 
