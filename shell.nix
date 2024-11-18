@@ -12,6 +12,7 @@ pkgs.mkShell {
     pkgs.python311Packages.matplotlib
     pkgs.python311Packages.scipy
     pkgs.python311Packages.scikit-learn
+    pkgs.python311Packages.imbalanced-learn
     pkgs.python311Packages.faker
     pkgs.python311Packages.db-dtypes
     pkgs.python311Packages.pydata-google-auth
