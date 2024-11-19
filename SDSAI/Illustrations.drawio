@@ -1946,7 +1946,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SDSAI-05_Complex-ANN" id="Qz8avP_d4wfdOgIgHu1P">
-    <mxGraphModel dx="1272" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1536" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="asLeiwGVob_6S1npOplt-0" />
         <mxCell id="asLeiwGVob_6S1npOplt-1" parent="asLeiwGVob_6S1npOplt-0" />
@@ -1961,7 +1961,7 @@
         </mxCell>
         <mxCell id="asLeiwGVob_6S1npOplt-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="asLeiwGVob_6S1npOplt-1" target="asLeiwGVob_6S1npOplt-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="140" as="sourcePoint" />
+            <mxPoint x="100" y="140" as="sourcePoint" />
             <mxPoint x="240" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2054,7 +2054,7 @@
         </mxCell>
         <mxCell id="asLeiwGVob_6S1npOplt-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="asLeiwGVob_6S1npOplt-1" target="asLeiwGVob_6S1npOplt-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="300" as="sourcePoint" />
+            <mxPoint x="100" y="300" as="sourcePoint" />
             <mxPoint x="240" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
