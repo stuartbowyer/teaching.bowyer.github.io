@@ -7890,8 +7890,8 @@ Neuron output for B is 1.9450000000000074
 </thead>
 <tbody>
 <tr>
-<td><img alt="Simplified NN example" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Simplified_neural_network_training_example.svg"/></td>
-<td><img alt="Simplified NN example" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Simplified_neural_network_example.svg"/></td>
+<td><img alt="Description of Image" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Simplified_neural_network_training_example.svg" style="width: 450px; display: block; margin: 0 auto;"/></td>
+<td><img alt="Description of Image" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Simplified_neural_network_example.svg" style="width: 450px; display: block; margin: 0 auto;"/></td>
 </tr>
 <tr>
 <td>By <a class="mw-file-description" href="//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg"></a><a href="//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m" title="User:Mikael Häggström">Mikael Häggström</a>, <a class="extiw" href="https://en.wikipedia.org/wiki/Medical_Doctor" title="en:Medical Doctor">M.D.</a> <a class="mw-redirect" href="//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m" title="Mikael Häggström">Author info</a>- <a href="//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images" title="User:Mikael Häggström">Reusing images</a>- Conflicts of interest:  None<a href="//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m" title="User:Mikael Häggström">Mikael Häggström</a>, <a class="extiw" href="https://en.wikipedia.org/wiki/Medical_Doctor" title="en:Medical Doctor">M.D.</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=138411803">Link</a></td>
@@ -8682,7 +8682,7 @@ Best Parameters: {'activation': 'logistic', 'hidden_layer_sizes': 40}
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell celltag_side-by-side">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -8837,7 +8837,7 @@ Name: proportion, dtype: Float64</pre>
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [108]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [111]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">imblearn.over_sampling</span> <span class="kn">import</span> <span class="n">RandomOverSampler</span>
@@ -8852,9 +8852,8 @@ Name: proportion, dtype: Float64</pre>
 <span class="c1"># Apply it to our dataset</span>
 <span class="n">X_res</span><span class="p">,</span> <span class="n">Y_res</span> <span class="o">=</span> <span class="n">ros</span><span class="o">.</span><span class="n">fit_resample</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="n">Y</span><span class="p">)</span>
 
-<span class="nb">print</span><span class="p">(</span><span class="s2">"Previous value counts: "</span><span class="p">,</span> <span class="n">Y</span><span class="o">.</span><span class="n">value_counts</span><span class="p">())</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">""</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">"Resampled value counts:"</span><span class="p">,</span> <span class="n">Y_res</span><span class="o">.</span><span class="n">value_counts</span><span class="p">())</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"Previous value counts: "</span><span class="p">,</span> <span class="n">Y</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span><span class="o">.</span><span class="n">to_list</span><span class="p">())</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"Resampled value counts:"</span><span class="p">,</span> <span class="n">Y_res</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span><span class="o">.</span><span class="n">to_list</span><span class="p">())</span>
 </pre></div>
 </div>
 </div>
@@ -8867,15 +8866,8 @@ Name: proportion, dtype: Float64</pre>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Previous value counts:  mortality
-False    63076
-True      8034
-Name: count, dtype: Int64
-
-Resampled value counts: mortality
-False    63076
-True     63076
-Name: count, dtype: Int64
+<pre>Previous value counts:  [63076, 8034]
+Resampled value counts: [63076, 63076]
 </pre>
 </div>
 </div>
@@ -8938,7 +8930,7 @@ Name: count, dtype: Int64
 </ul>
 </li>
 </ul>
-<p><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Ensemble_Boosting.svg"/></p>
+<img alt="Description of Image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Ensemble_Boosting.svg" style="height: 400px; display: block; margin: 0 auto;"/>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Sirakorn" title="User:Sirakorn">Sirakorn</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=85888769">Link</a></p>
 </div>
 </div>
@@ -9030,7 +9022,7 @@ Name: count, dtype: Int64
     Neural Networks and Deep Learning
   </div>
 <div class="column" style="font-size: x-small;">
-    v.2024-11-20_a681f20
+    v.2024-11-20_6f793fc
   </div>
 <div class="column">
 <a href="https://colab.research.google.com/github/stuartbowyer/teaching.bowyer.github.io/blob/main/SDSAI/5/Neural_Networks_and_Deep_Learning.ipynb" target="_blank"><img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"/>
