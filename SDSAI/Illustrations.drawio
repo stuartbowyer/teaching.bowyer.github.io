@@ -4444,7 +4444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NlbpH07X3D0icyxlZJ6O" name="SDSAI-06_Random-Oversampling">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="798" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4637,11 +4637,14 @@
         <mxCell id="TvSk4s56tLAgmXRLXx-0-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="583" y="283" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="rZMvSdfBBotH_4es5bkR-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="10" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="SDSAI-06_SMOTE-Oversampling" id="A_kqKyArZ6igfeL4iQZ6">
-    <mxGraphModel dx="1012" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="k53UHlNwC7p8aMaEUpe9-0" />
         <mxCell id="k53UHlNwC7p8aMaEUpe9-1" parent="k53UHlNwC7p8aMaEUpe9-0" />
