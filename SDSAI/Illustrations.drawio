@@ -6349,12 +6349,6 @@
             <mxPoint x="80" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DUMU-jPIjK32i7sS5jO8-169" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="680" as="sourcePoint" />
-            <mxPoint x="400" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DUMU-jPIjK32i7sS5jO8-170" value="feature1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="320" height="20" as="geometry" />
         </mxCell>
@@ -6594,6 +6588,12 @@
         </mxCell>
         <mxCell id="DUMU-jPIjK32i7sS5jO8-296" value="2D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="40" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="DUMU-jPIjK32i7sS5jO8-169" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="680" as="sourcePoint" />
+            <mxPoint x="400" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
