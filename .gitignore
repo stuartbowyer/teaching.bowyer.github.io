@@ -7,8 +7,4 @@ __pycache__
 SDSAI/2/test-*
 
 !index.html
-!SDSAI/1/*[.html, .pdf]
-!SDSAI/2/*[.html, .pdf]
-!SDSAI/3/*[.html, .pdf]
-!SDSAI/4/*[.html, .pdf]
-!SDSAI/5/*[.html, .pdf]
+!SDSAI/[1-6]/*[.html, .pdf]
