@@ -1,8 +1,9 @@
 import os
+import sys
 
 def generate_html_index(directory, output_file=None):
     """
-    Generates an HTML index file listing all .html and .pdf files in the directory and its subdirectories.
+    Generates an HTML index file listing all .slides.html and .pdf files in the directory and its subdirectories.
     
     :param directory: Path to the directory containing the files.
     :param output_file: Name of the output HTML file.
@@ -18,7 +19,7 @@ def generate_html_index(directory, output_file=None):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recursive Directory Index</title>
+    <title>Lecture Material Index</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -77,7 +78,12 @@ def generate_html_index(directory, output_file=None):
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(html_content)
 
-# Example usage
+    print(f"HTML index successfully generated: {output_file}")
+
+# Entry point
 if __name__ == "__main__":
-    target_directory = input("Enter the directory path to generate an index for: ")
-    generate_html_index(target_directory)
+
+    target_directory = sys.argv[1]
+    output_file = sys.argv[2] if len(sys.argv) > 2 else None
+
+    generate_html_index(target_directory, output_file)
